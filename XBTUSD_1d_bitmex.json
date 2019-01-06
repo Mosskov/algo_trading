@@ -1,0 +1,8291 @@
+[
+    {
+        "close": 235.2,
+        "high": 239.99,
+        "low": 234.81,
+        "open": 239.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-09-26 00:00:00",
+        "volume": 190090
+    },
+    {
+        "close": 234.51,
+        "high": 235.36,
+        "low": 232.91,
+        "open": 235.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-09-27 00:00:00",
+        "volume": 258488
+    },
+    {
+        "close": 233.29,
+        "high": 234.76,
+        "low": 233.03,
+        "open": 234.51,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-09-28 00:00:00",
+        "volume": 161013
+    },
+    {
+        "close": 240.07,
+        "high": 243.19,
+        "low": 232.9,
+        "open": 233.29,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-09-29 00:00:00",
+        "volume": 319143
+    },
+    {
+        "close": 237,
+        "high": 241.5,
+        "low": 235.81,
+        "open": 240.07,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-09-30 00:00:00",
+        "volume": 368771
+    },
+    {
+        "close": 236.55,
+        "high": 238.2,
+        "low": 235.56,
+        "open": 237,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-01 00:00:00",
+        "volume": 294736
+    },
+    {
+        "close": 238.1,
+        "high": 239.53,
+        "low": 234.63,
+        "open": 236.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-02 00:00:00",
+        "volume": 180356
+    },
+    {
+        "close": 238,
+        "high": 238.99,
+        "low": 237.09,
+        "open": 238.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-03 00:00:00",
+        "volume": 133911
+    },
+    {
+        "close": 239.67,
+        "high": 241,
+        "low": 237.53,
+        "open": 238,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-04 00:00:00",
+        "volume": 127411
+    },
+    {
+        "close": 238.58,
+        "high": 239.93,
+        "low": 238.3,
+        "open": 239.67,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-05 00:00:00",
+        "volume": 148659
+    },
+    {
+        "close": 240.85,
+        "high": 240.85,
+        "low": 237.77,
+        "open": 238.58,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-06 00:00:00",
+        "volume": 255736
+    },
+    {
+        "close": 247.09,
+        "high": 249,
+        "low": 240.68,
+        "open": 240.85,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-07 00:00:00",
+        "volume": 536943
+    },
+    {
+        "close": 243.43,
+        "high": 247.8,
+        "low": 243.43,
+        "open": 247.09,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-08 00:00:00",
+        "volume": 428099
+    },
+    {
+        "close": 243.19,
+        "high": 245.73,
+        "low": 243,
+        "open": 243.43,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-09 00:00:00",
+        "volume": 393019
+    },
+    {
+        "close": 244.4,
+        "high": 244.91,
+        "low": 242.99,
+        "open": 243.19,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-10 00:00:00",
+        "volume": 466508
+    },
+    {
+        "close": 246,
+        "high": 246.08,
+        "low": 243.77,
+        "open": 244.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-11 00:00:00",
+        "volume": 300969
+    },
+    {
+        "close": 248.13,
+        "high": 248.56,
+        "low": 245.18,
+        "open": 246,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-12 00:00:00",
+        "volume": 657289
+    },
+    {
+        "close": 246.38,
+        "high": 248.41,
+        "low": 245.7,
+        "open": 248.13,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-13 00:00:00",
+        "volume": 710444
+    },
+    {
+        "close": 250.76,
+        "high": 251.49,
+        "low": 244.47,
+        "open": 246.38,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-14 00:00:00",
+        "volume": 1284157
+    },
+    {
+        "close": 253.32,
+        "high": 255.55,
+        "low": 249.99,
+        "open": 250.76,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-15 00:00:00",
+        "volume": 1196167
+    },
+    {
+        "close": 254.86,
+        "high": 257.18,
+        "low": 253.04,
+        "open": 253.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-16 00:00:00",
+        "volume": 3508869
+    },
+    {
+        "close": 263.89,
+        "high": 267.55,
+        "low": 254.88,
+        "open": 254.86,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-17 00:00:00",
+        "volume": 4632494
+    },
+    {
+        "close": 273.91,
+        "high": 278.51,
+        "low": 263,
+        "open": 263.89,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-18 00:00:00",
+        "volume": 9988015
+    },
+    {
+        "close": 265.63,
+        "high": 275.05,
+        "low": 262,
+        "open": 273.91,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-19 00:00:00",
+        "volume": 3216612
+    },
+    {
+        "close": 265.35,
+        "high": 270.69,
+        "low": 261.55,
+        "open": 265.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-20 00:00:00",
+        "volume": 2241882
+    },
+    {
+        "close": 271.85,
+        "high": 274.49,
+        "low": 264.68,
+        "open": 265.35,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-21 00:00:00",
+        "volume": 2770928
+    },
+    {
+        "close": 268.37,
+        "high": 273.45,
+        "low": 263.88,
+        "open": 271.85,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-22 00:00:00",
+        "volume": 2806074
+    },
+    {
+        "close": 276.9,
+        "high": 280,
+        "low": 267.65,
+        "open": 268.37,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-23 00:00:00",
+        "volume": 2263003
+    },
+    {
+        "close": 279.8,
+        "high": 282.38,
+        "low": 275.47,
+        "open": 276.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-24 00:00:00",
+        "volume": 1898945
+    },
+    {
+        "close": 285.39,
+        "high": 286.9,
+        "low": 278.35,
+        "open": 279.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-25 00:00:00",
+        "volume": 2753916
+    },
+    {
+        "close": 285.79,
+        "high": 299.51,
+        "low": 282.9,
+        "open": 285.39,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-26 00:00:00",
+        "volume": 5663816
+    },
+    {
+        "close": 289.32,
+        "high": 292.29,
+        "low": 281.01,
+        "open": 285.79,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-27 00:00:00",
+        "volume": 3596017
+    },
+    {
+        "close": 296.51,
+        "high": 305.32,
+        "low": 286.89,
+        "open": 289.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-28 00:00:00",
+        "volume": 4671955
+    },
+    {
+        "close": 306.99,
+        "high": 310.36,
+        "low": 296.6,
+        "open": 296.51,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-29 00:00:00",
+        "volume": 4231430
+    },
+    {
+        "close": 316.6,
+        "high": 322,
+        "low": 303.14,
+        "open": 306.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-30 00:00:00",
+        "volume": 5642264
+    },
+    {
+        "close": 333,
+        "high": 336.81,
+        "low": 300,
+        "open": 316.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-10-31 00:00:00",
+        "volume": 7526523
+    },
+    {
+        "close": 317.73,
+        "high": 338.7,
+        "low": 307.53,
+        "open": 333,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-01 00:00:00",
+        "volume": 5842767
+    },
+    {
+        "close": 331.38,
+        "high": 335,
+        "low": 314,
+        "open": 317.73,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-02 00:00:00",
+        "volume": 2599899
+    },
+    {
+        "close": 371.98,
+        "high": 380,
+        "low": 326.95,
+        "open": 331.38,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-03 00:00:00",
+        "volume": 3855966
+    },
+    {
+        "close": 422,
+        "high": 440,
+        "low": 365.18,
+        "open": 371.98,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-04 00:00:00",
+        "volume": 6102534
+    },
+    {
+        "close": 424,
+        "high": 558,
+        "low": 382,
+        "open": 422,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-05 00:00:00",
+        "volume": 5738641
+    },
+    {
+        "close": 402,
+        "high": 472.73,
+        "low": 375,
+        "open": 424,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-06 00:00:00",
+        "volume": 3820602
+    },
+    {
+        "close": 377.61,
+        "high": 408.32,
+        "low": 359,
+        "open": 402,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-07 00:00:00",
+        "volume": 3353266
+    },
+    {
+        "close": 384.34,
+        "high": 394.99,
+        "low": 373.91,
+        "open": 377.61,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-08 00:00:00",
+        "volume": 2032334
+    },
+    {
+        "close": 372,
+        "high": 394.82,
+        "low": 365,
+        "open": 384.34,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-09 00:00:00",
+        "volume": 1938629
+    },
+    {
+        "close": 383.25,
+        "high": 395.21,
+        "low": 361.32,
+        "open": 372,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-10 00:00:00",
+        "volume": 2043266
+    },
+    {
+        "close": 339.45,
+        "high": 385.96,
+        "low": 326.88,
+        "open": 383.25,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-11 00:00:00",
+        "volume": 3018387
+    },
+    {
+        "close": 314.5,
+        "high": 344,
+        "low": 301.09,
+        "open": 339.45,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-12 00:00:00",
+        "volume": 3906724
+    },
+    {
+        "close": 338.25,
+        "high": 349.84,
+        "low": 313.7,
+        "open": 314.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-13 00:00:00",
+        "volume": 3688177
+    },
+    {
+        "close": 338.81,
+        "high": 344.75,
+        "low": 325.21,
+        "open": 338.25,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-14 00:00:00",
+        "volume": 1939377
+    },
+    {
+        "close": 333.63,
+        "high": 345.03,
+        "low": 329.31,
+        "open": 338.81,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-15 00:00:00",
+        "volume": 1637971
+    },
+    {
+        "close": 320.43,
+        "high": 335.08,
+        "low": 314.5,
+        "open": 333.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-16 00:00:00",
+        "volume": 1621865
+    },
+    {
+        "close": 332.05,
+        "high": 334.77,
+        "low": 314.1,
+        "open": 320.43,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-17 00:00:00",
+        "volume": 1502612
+    },
+    {
+        "close": 336.4,
+        "high": 342.69,
+        "low": 331.15,
+        "open": 332.05,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-18 00:00:00",
+        "volume": 1530487
+    },
+    {
+        "close": 336.5,
+        "high": 339.69,
+        "low": 328.77,
+        "open": 336.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-19 00:00:00",
+        "volume": 1208577
+    },
+    {
+        "close": 326.65,
+        "high": 336.84,
+        "low": 324.85,
+        "open": 336.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-20 00:00:00",
+        "volume": 1209300
+    },
+    {
+        "close": 322.09,
+        "high": 327.37,
+        "low": 309.99,
+        "open": 326.65,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-21 00:00:00",
+        "volume": 1878107
+    },
+    {
+        "close": 328.24,
+        "high": 330.62,
+        "low": 319.67,
+        "open": 322.09,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-22 00:00:00",
+        "volume": 1113793
+    },
+    {
+        "close": 324.92,
+        "high": 328.6,
+        "low": 319.81,
+        "open": 328.24,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-23 00:00:00",
+        "volume": 912601
+    },
+    {
+        "close": 323.81,
+        "high": 331.94,
+        "low": 320.96,
+        "open": 324.92,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-24 00:00:00",
+        "volume": 803797
+    },
+    {
+        "close": 319.8,
+        "high": 323.76,
+        "low": 315.79,
+        "open": 323.81,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-25 00:00:00",
+        "volume": 927965
+    },
+    {
+        "close": 329.42,
+        "high": 334.49,
+        "low": 315.84,
+        "open": 319.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-26 00:00:00",
+        "volume": 1220511
+    },
+    {
+        "close": 354.2,
+        "high": 372.42,
+        "low": 329.25,
+        "open": 329.42,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-27 00:00:00",
+        "volume": 3054060
+    },
+    {
+        "close": 361.7,
+        "high": 367.4,
+        "low": 350,
+        "open": 354.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-28 00:00:00",
+        "volume": 2415770
+    },
+    {
+        "close": 359.72,
+        "high": 362.29,
+        "low": 350,
+        "open": 361.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-29 00:00:00",
+        "volume": 1678983
+    },
+    {
+        "close": 379.5,
+        "high": 382.74,
+        "low": 355.1,
+        "open": 359.72,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-11-30 00:00:00",
+        "volume": 1407040
+    },
+    {
+        "close": 381.43,
+        "high": 388.5,
+        "low": 373.32,
+        "open": 379.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-01 00:00:00",
+        "volume": 2619821
+    },
+    {
+        "close": 364.1,
+        "high": 384.75,
+        "low": 347.03,
+        "open": 381.43,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-02 00:00:00",
+        "volume": 2092391
+    },
+    {
+        "close": 359.96,
+        "high": 367.18,
+        "low": 346.67,
+        "open": 364.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-03 00:00:00",
+        "volume": 1896192
+    },
+    {
+        "close": 362.32,
+        "high": 372.7,
+        "low": 355,
+        "open": 359.96,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-04 00:00:00",
+        "volume": 1909147
+    },
+    {
+        "close": 364.2,
+        "high": 365.38,
+        "low": 353.21,
+        "open": 362.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-05 00:00:00",
+        "volume": 1174333
+    },
+    {
+        "close": 394,
+        "high": 395,
+        "low": 363.35,
+        "open": 364.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-06 00:00:00",
+        "volume": 1884756
+    },
+    {
+        "close": 390.04,
+        "high": 407.51,
+        "low": 387,
+        "open": 394,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-07 00:00:00",
+        "volume": 1995480
+    },
+    {
+        "close": 396.7,
+        "high": 405.62,
+        "low": 384,
+        "open": 390.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-08 00:00:00",
+        "volume": 1632998
+    },
+    {
+        "close": 423,
+        "high": 425.15,
+        "low": 390,
+        "open": 396.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-09 00:00:00",
+        "volume": 1589423
+    },
+    {
+        "close": 422.14,
+        "high": 428.7,
+        "low": 407.5,
+        "open": 423,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-10 00:00:00",
+        "volume": 3017529
+    },
+    {
+        "close": 416.22,
+        "high": 424.99,
+        "low": 411.16,
+        "open": 422.14,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-11 00:00:00",
+        "volume": 1725214
+    },
+    {
+        "close": 460,
+        "high": 463.78,
+        "low": 416.64,
+        "open": 416.22,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-12 00:00:00",
+        "volume": 5284695
+    },
+    {
+        "close": 440.34,
+        "high": 482.76,
+        "low": 418.27,
+        "open": 460,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-13 00:00:00",
+        "volume": 5297714
+    },
+    {
+        "close": 437.5,
+        "high": 449.8,
+        "low": 419.99,
+        "open": 440.34,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-14 00:00:00",
+        "volume": 2447010
+    },
+    {
+        "close": 448.89,
+        "high": 453.5,
+        "low": 432.48,
+        "open": 437.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-15 00:00:00",
+        "volume": 2231778
+    },
+    {
+        "close": 469.98,
+        "high": 471,
+        "low": 447.48,
+        "open": 448.89,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-16 00:00:00",
+        "volume": 3419075
+    },
+    {
+        "close": 458.04,
+        "high": 470.08,
+        "low": 404,
+        "open": 469.98,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-17 00:00:00",
+        "volume": 4154136
+    },
+    {
+        "close": 456.36,
+        "high": 459.76,
+        "low": 446.17,
+        "open": 458.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-18 00:00:00",
+        "volume": 1152674
+    },
+    {
+        "close": 464.96,
+        "high": 468.33,
+        "low": 443.05,
+        "open": 456.36,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-19 00:00:00",
+        "volume": 1493527
+    },
+    {
+        "close": 461.6,
+        "high": 467.5,
+        "low": 451.37,
+        "open": 464.96,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-20 00:00:00",
+        "volume": 1481469
+    },
+    {
+        "close": 443.29,
+        "high": 462.81,
+        "low": 429.24,
+        "open": 461.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-21 00:00:00",
+        "volume": 2584113
+    },
+    {
+        "close": 439.31,
+        "high": 446,
+        "low": 423.7,
+        "open": 443.29,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-22 00:00:00",
+        "volume": 2103651
+    },
+    {
+        "close": 436.56,
+        "high": 443.39,
+        "low": 433.47,
+        "open": 439.31,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-23 00:00:00",
+        "volume": 829379
+    },
+    {
+        "close": 445.26,
+        "high": 446,
+        "low": 435.57,
+        "open": 436.56,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-24 00:00:00",
+        "volume": 560732
+    },
+    {
+        "close": 457.33,
+        "high": 459.31,
+        "low": 439.49,
+        "open": 445.26,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-25 00:00:00",
+        "volume": 1020329
+    },
+    {
+        "close": 455.44,
+        "high": 461.56,
+        "low": 448.48,
+        "open": 457.33,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-26 00:00:00",
+        "volume": 612453
+    },
+    {
+        "close": 416.76,
+        "high": 458.45,
+        "low": 402.86,
+        "open": 455.44,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-27 00:00:00",
+        "volume": 2993927
+    },
+    {
+        "close": 426.82,
+        "high": 433.95,
+        "low": 407.83,
+        "open": 416.76,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-28 00:00:00",
+        "volume": 1267415
+    },
+    {
+        "close": 422.5,
+        "high": 432.67,
+        "low": 417.87,
+        "open": 426.82,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-29 00:00:00",
+        "volume": 1865178
+    },
+    {
+        "close": 434,
+        "high": 434.97,
+        "low": 418.26,
+        "open": 422.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-30 00:00:00",
+        "volume": 1033533
+    },
+    {
+        "close": 424,
+        "high": 434.47,
+        "low": 419.97,
+        "open": 434,
+        "symbol": "XBTUSD",
+        "timestamp": "2015-12-31 00:00:00",
+        "volume": 841044
+    },
+    {
+        "close": 430.76,
+        "high": 434.23,
+        "low": 415.99,
+        "open": 424,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-01 00:00:00",
+        "volume": 1072844
+    },
+    {
+        "close": 435.99,
+        "high": 436.7,
+        "low": 426.37,
+        "open": 430.76,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-02 00:00:00",
+        "volume": 478071
+    },
+    {
+        "close": 435,
+        "high": 438,
+        "low": 429.25,
+        "open": 435.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-03 00:00:00",
+        "volume": 729519
+    },
+    {
+        "close": 429.79,
+        "high": 435.4,
+        "low": 422.14,
+        "open": 435,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-04 00:00:00",
+        "volume": 1218222
+    },
+    {
+        "close": 432.3,
+        "high": 436.44,
+        "low": 427.5,
+        "open": 429.79,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-05 00:00:00",
+        "volume": 798056
+    },
+    {
+        "close": 432.57,
+        "high": 434.97,
+        "low": 429,
+        "open": 432.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-06 00:00:00",
+        "volume": 480736
+    },
+    {
+        "close": 428.72,
+        "high": 432.2,
+        "low": 425.01,
+        "open": 432.57,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-07 00:00:00",
+        "volume": 555455
+    },
+    {
+        "close": 461.02,
+        "high": 464.04,
+        "low": 426.12,
+        "open": 428.72,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-08 00:00:00",
+        "volume": 3420928
+    },
+    {
+        "close": 453.53,
+        "high": 469.49,
+        "low": 445.42,
+        "open": 461.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-09 00:00:00",
+        "volume": 2973447
+    },
+    {
+        "close": 450,
+        "high": 454.81,
+        "low": 444.86,
+        "open": 453.53,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-10 00:00:00",
+        "volume": 1608658
+    },
+    {
+        "close": 450.5,
+        "high": 450.75,
+        "low": 439.01,
+        "open": 450,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-11 00:00:00",
+        "volume": 1316820
+    },
+    {
+        "close": 450.43,
+        "high": 454.89,
+        "low": 445.28,
+        "open": 450.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-12 00:00:00",
+        "volume": 2075229
+    },
+    {
+        "close": 431.45,
+        "high": 453.35,
+        "low": 430,
+        "open": 450.43,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-13 00:00:00",
+        "volume": 1762340
+    },
+    {
+        "close": 429.94,
+        "high": 438.01,
+        "low": 420.48,
+        "open": 431.45,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-14 00:00:00",
+        "volume": 2324192
+    },
+    {
+        "close": 427.87,
+        "high": 432.92,
+        "low": 425.76,
+        "open": 429.94,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-15 00:00:00",
+        "volume": 651926
+    },
+    {
+        "close": 360,
+        "high": 428.31,
+        "low": 360,
+        "open": 427.87,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-16 00:00:00",
+        "volume": 2562104
+    },
+    {
+        "close": 388.6,
+        "high": 391.44,
+        "low": 350.83,
+        "open": 360,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-17 00:00:00",
+        "volume": 2530911
+    },
+    {
+        "close": 380,
+        "high": 392.62,
+        "low": 377.33,
+        "open": 388.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-18 00:00:00",
+        "volume": 1923597
+    },
+    {
+        "close": 384.53,
+        "high": 389.1,
+        "low": 373.16,
+        "open": 380,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-19 00:00:00",
+        "volume": 1207683
+    },
+    {
+        "close": 376.74,
+        "high": 387.9,
+        "low": 375.99,
+        "open": 384.53,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-20 00:00:00",
+        "volume": 1139997
+    },
+    {
+        "close": 421.44,
+        "high": 428,
+        "low": 372.99,
+        "open": 376.74,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-21 00:00:00",
+        "volume": 2780268
+    },
+    {
+        "close": 411.76,
+        "high": 424.73,
+        "low": 404.2,
+        "open": 421.44,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-22 00:00:00",
+        "volume": 1709469
+    },
+    {
+        "close": 381.8,
+        "high": 412.26,
+        "low": 368.01,
+        "open": 411.76,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-23 00:00:00",
+        "volume": 3898698
+    },
+    {
+        "close": 387.01,
+        "high": 396.5,
+        "low": 380.58,
+        "open": 381.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-24 00:00:00",
+        "volume": 2642327
+    },
+    {
+        "close": 403.67,
+        "high": 408.79,
+        "low": 386.21,
+        "open": 387.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-25 00:00:00",
+        "volume": 1659215
+    },
+    {
+        "close": 389,
+        "high": 404.51,
+        "low": 388.17,
+        "open": 403.67,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-26 00:00:00",
+        "volume": 2331402
+    },
+    {
+        "close": 391.55,
+        "high": 397.01,
+        "low": 386.98,
+        "open": 389,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-27 00:00:00",
+        "volume": 1281634
+    },
+    {
+        "close": 395.63,
+        "high": 397.92,
+        "low": 391.31,
+        "open": 391.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-28 00:00:00",
+        "volume": 340083
+    },
+    {
+        "close": 380,
+        "high": 394.94,
+        "low": 375.42,
+        "open": 395.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-29 00:00:00",
+        "volume": 1200822
+    },
+    {
+        "close": 377.35,
+        "high": 385.58,
+        "low": 361,
+        "open": 380,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-30 00:00:00",
+        "volume": 2298885
+    },
+    {
+        "close": 376.95,
+        "high": 383.43,
+        "low": 373,
+        "open": 377.35,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-01-31 00:00:00",
+        "volume": 964099
+    },
+    {
+        "close": 364.99,
+        "high": 379,
+        "low": 360.01,
+        "open": 376.95,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-01 00:00:00",
+        "volume": 711509
+    },
+    {
+        "close": 371.62,
+        "high": 378.56,
+        "low": 364.99,
+        "open": 364.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-02 00:00:00",
+        "volume": 1783415
+    },
+    {
+        "close": 372.69,
+        "high": 376.13,
+        "low": 369.99,
+        "open": 371.62,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-03 00:00:00",
+        "volume": 637209
+    },
+    {
+        "close": 369.78,
+        "high": 373.9,
+        "low": 365.71,
+        "open": 372.69,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-04 00:00:00",
+        "volume": 1088239
+    },
+    {
+        "close": 389.49,
+        "high": 395,
+        "low": 369.31,
+        "open": 369.78,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-05 00:00:00",
+        "volume": 1487389
+    },
+    {
+        "close": 385.39,
+        "high": 398.98,
+        "low": 384.59,
+        "open": 389.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-06 00:00:00",
+        "volume": 914820
+    },
+    {
+        "close": 374.3,
+        "high": 386.18,
+        "low": 371,
+        "open": 385.39,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-07 00:00:00",
+        "volume": 1488034
+    },
+    {
+        "close": 375.74,
+        "high": 380.29,
+        "low": 373.01,
+        "open": 374.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-08 00:00:00",
+        "volume": 497376
+    },
+    {
+        "close": 371.86,
+        "high": 381.44,
+        "low": 370.89,
+        "open": 375.74,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-09 00:00:00",
+        "volume": 1034043
+    },
+    {
+        "close": 375.55,
+        "high": 377.8,
+        "low": 371.15,
+        "open": 371.86,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-10 00:00:00",
+        "volume": 184439
+    },
+    {
+        "close": 381.39,
+        "high": 385.93,
+        "low": 374.82,
+        "open": 375.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-11 00:00:00",
+        "volume": 347574
+    },
+    {
+        "close": 378.2,
+        "high": 383,
+        "low": 374,
+        "open": 381.39,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-12 00:00:00",
+        "volume": 482977
+    },
+    {
+        "close": 382.22,
+        "high": 384.56,
+        "low": 377.47,
+        "open": 378.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-13 00:00:00",
+        "volume": 716688
+    },
+    {
+        "close": 394.85,
+        "high": 395,
+        "low": 382.11,
+        "open": 382.22,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-14 00:00:00",
+        "volume": 924733
+    },
+    {
+        "close": 408.92,
+        "high": 409.4,
+        "low": 394.33,
+        "open": 394.85,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-15 00:00:00",
+        "volume": 1162021
+    },
+    {
+        "close": 399.17,
+        "high": 413.99,
+        "low": 392,
+        "open": 408.92,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-16 00:00:00",
+        "volume": 1986806
+    },
+    {
+        "close": 406.6,
+        "high": 410,
+        "low": 397.17,
+        "open": 399.17,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-17 00:00:00",
+        "volume": 1735067
+    },
+    {
+        "close": 414.99,
+        "high": 422.2,
+        "low": 403.57,
+        "open": 406.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-18 00:00:00",
+        "volume": 1568296
+    },
+    {
+        "close": 420.77,
+        "high": 426.11,
+        "low": 414.5,
+        "open": 414.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-19 00:00:00",
+        "volume": 1050982
+    },
+    {
+        "close": 419.71,
+        "high": 422.19,
+        "low": 412,
+        "open": 420.77,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-20 00:00:00",
+        "volume": 843415
+    },
+    {
+        "close": 438.98,
+        "high": 447,
+        "low": 420.33,
+        "open": 419.71,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-21 00:00:00",
+        "volume": 2922733
+    },
+    {
+        "close": 439.87,
+        "high": 451.61,
+        "low": 427.5,
+        "open": 438.98,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-22 00:00:00",
+        "volume": 2183112
+    },
+    {
+        "close": 439.19,
+        "high": 442.23,
+        "low": 430.35,
+        "open": 439.87,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-23 00:00:00",
+        "volume": 862594
+    },
+    {
+        "close": 420.07,
+        "high": 442.23,
+        "low": 413.57,
+        "open": 439.19,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-24 00:00:00",
+        "volume": 1412797
+    },
+    {
+        "close": 424.52,
+        "high": 426.83,
+        "low": 410.65,
+        "open": 420.07,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-25 00:00:00",
+        "volume": 786934
+    },
+    {
+        "close": 424.46,
+        "high": 431.11,
+        "low": 418.8,
+        "open": 424.52,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-26 00:00:00",
+        "volume": 1013217
+    },
+    {
+        "close": 434.02,
+        "high": 434.33,
+        "low": 418.45,
+        "open": 424.46,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-27 00:00:00",
+        "volume": 757074
+    },
+    {
+        "close": 432.04,
+        "high": 436.1,
+        "low": 429.7,
+        "open": 434.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-28 00:00:00",
+        "volume": 660402
+    },
+    {
+        "close": 433.99,
+        "high": 436,
+        "low": 423.18,
+        "open": 432.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-02-29 00:00:00",
+        "volume": 736904
+    },
+    {
+        "close": 435.96,
+        "high": 442.79,
+        "low": 431.52,
+        "open": 433.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-01 00:00:00",
+        "volume": 877171
+    },
+    {
+        "close": 433.55,
+        "high": 440.38,
+        "low": 424.5,
+        "open": 435.96,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-02 00:00:00",
+        "volume": 718888
+    },
+    {
+        "close": 423.8,
+        "high": 435.53,
+        "low": 421.92,
+        "open": 433.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-03 00:00:00",
+        "volume": 584575
+    },
+    {
+        "close": 419.99,
+        "high": 424.01,
+        "low": 417.8,
+        "open": 423.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-04 00:00:00",
+        "volume": 652635
+    },
+    {
+        "close": 408.68,
+        "high": 423.33,
+        "low": 407.35,
+        "open": 419.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-05 00:00:00",
+        "volume": 734758
+    },
+    {
+        "close": 398.01,
+        "high": 410.03,
+        "low": 390.08,
+        "open": 408.68,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-06 00:00:00",
+        "volume": 1053709
+    },
+    {
+        "close": 404.08,
+        "high": 410.38,
+        "low": 392.76,
+        "open": 398.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-07 00:00:00",
+        "volume": 507708
+    },
+    {
+        "close": 412.92,
+        "high": 414.58,
+        "low": 402.28,
+        "open": 404.08,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-08 00:00:00",
+        "volume": 550935
+    },
+    {
+        "close": 412.49,
+        "high": 415.24,
+        "low": 409.02,
+        "open": 412.92,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-09 00:00:00",
+        "volume": 260292
+    },
+    {
+        "close": 413.64,
+        "high": 414.15,
+        "low": 408.1,
+        "open": 412.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-10 00:00:00",
+        "volume": 218286
+    },
+    {
+        "close": 418.03,
+        "high": 418.08,
+        "low": 411.06,
+        "open": 413.64,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-11 00:00:00",
+        "volume": 316241
+    },
+    {
+        "close": 421.87,
+        "high": 423.48,
+        "low": 416.61,
+        "open": 418.03,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-12 00:00:00",
+        "volume": 648801
+    },
+    {
+        "close": 411.4,
+        "high": 421.96,
+        "low": 407.23,
+        "open": 421.87,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-13 00:00:00",
+        "volume": 878204
+    },
+    {
+        "close": 412.58,
+        "high": 416.17,
+        "low": 411.17,
+        "open": 411.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-14 00:00:00",
+        "volume": 147641
+    },
+    {
+        "close": 415.68,
+        "high": 416.01,
+        "low": 412.58,
+        "open": 412.58,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-15 00:00:00",
+        "volume": 153706
+    },
+    {
+        "close": 415.53,
+        "high": 418.05,
+        "low": 413.25,
+        "open": 415.68,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-16 00:00:00",
+        "volume": 168834
+    },
+    {
+        "close": 416.86,
+        "high": 417.73,
+        "low": 413.47,
+        "open": 415.53,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-17 00:00:00",
+        "volume": 118770
+    },
+    {
+        "close": 419.2,
+        "high": 419.46,
+        "low": 417,
+        "open": 416.86,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-18 00:00:00",
+        "volume": 124519
+    },
+    {
+        "close": 408.68,
+        "high": 418.6,
+        "low": 402.49,
+        "open": 419.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-19 00:00:00",
+        "volume": 406058
+    },
+    {
+        "close": 409.25,
+        "high": 409.81,
+        "low": 403.68,
+        "open": 408.68,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-20 00:00:00",
+        "volume": 316965
+    },
+    {
+        "close": 412.24,
+        "high": 412.55,
+        "low": 406.81,
+        "open": 409.25,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-21 00:00:00",
+        "volume": 258957
+    },
+    {
+        "close": 412.25,
+        "high": 412.25,
+        "low": 407.53,
+        "open": 412.24,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-22 00:00:00",
+        "volume": 239995
+    },
+    {
+        "close": 416.99,
+        "high": 417.77,
+        "low": 411.18,
+        "open": 412.25,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-23 00:00:00",
+        "volume": 233530
+    },
+    {
+        "close": 416.57,
+        "high": 419,
+        "low": 414.55,
+        "open": 416.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-24 00:00:00",
+        "volume": 440562
+    },
+    {
+        "close": 415.67,
+        "high": 418.36,
+        "low": 412.41,
+        "open": 416.57,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-25 00:00:00",
+        "volume": 375917
+    },
+    {
+        "close": 415.82,
+        "high": 416.84,
+        "low": 410.88,
+        "open": 415.67,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-26 00:00:00",
+        "volume": 298790
+    },
+    {
+        "close": 416.5,
+        "high": 418.4,
+        "low": 413.45,
+        "open": 415.82,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-27 00:00:00",
+        "volume": 214610
+    },
+    {
+        "close": 425.5,
+        "high": 433.97,
+        "low": 415.82,
+        "open": 416.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-28 00:00:00",
+        "volume": 1055387
+    },
+    {
+        "close": 422.46,
+        "high": 427.76,
+        "low": 421.73,
+        "open": 425.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-29 00:00:00",
+        "volume": 500286
+    },
+    {
+        "close": 414.58,
+        "high": 425.09,
+        "low": 406.9,
+        "open": 422.46,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-30 00:00:00",
+        "volume": 554114
+    },
+    {
+        "close": 412.09,
+        "high": 414.99,
+        "low": 408.62,
+        "open": 414.58,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-03-31 00:00:00",
+        "volume": 271640
+    },
+    {
+        "close": 415.49,
+        "high": 416.75,
+        "low": 412.08,
+        "open": 412.09,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-01 00:00:00",
+        "volume": 277938
+    },
+    {
+        "close": 417.04,
+        "high": 417.04,
+        "low": 413.39,
+        "open": 415.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-02 00:00:00",
+        "volume": 155005
+    },
+    {
+        "close": 420,
+        "high": 422.07,
+        "low": 417.03,
+        "open": 417.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-03 00:00:00",
+        "volume": 276964
+    },
+    {
+        "close": 419.6,
+        "high": 420.69,
+        "low": 416.6,
+        "open": 420,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-04 00:00:00",
+        "volume": 217898
+    },
+    {
+        "close": 419.55,
+        "high": 420.52,
+        "low": 417.64,
+        "open": 419.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-05 00:00:00",
+        "volume": 151366
+    },
+    {
+        "close": 423.24,
+        "high": 423.98,
+        "low": 419.28,
+        "open": 419.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-06 00:00:00",
+        "volume": 196764
+    },
+    {
+        "close": 422.04,
+        "high": 423.52,
+        "low": 420.96,
+        "open": 423.24,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-07 00:00:00",
+        "volume": 169323
+    },
+    {
+        "close": 421.4,
+        "high": 422.37,
+        "low": 417.92,
+        "open": 422.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-08 00:00:00",
+        "volume": 136234
+    },
+    {
+        "close": 417.99,
+        "high": 423.51,
+        "low": 415,
+        "open": 421.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-09 00:00:00",
+        "volume": 333475
+    },
+    {
+        "close": 418.21,
+        "high": 418.21,
+        "low": 412.14,
+        "open": 417.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-10 00:00:00",
+        "volume": 309777
+    },
+    {
+        "close": 421.16,
+        "high": 422.19,
+        "low": 416.59,
+        "open": 418.21,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-11 00:00:00",
+        "volume": 162242
+    },
+    {
+        "close": 423,
+        "high": 423.43,
+        "low": 418.86,
+        "open": 421.16,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-12 00:00:00",
+        "volume": 166892
+    },
+    {
+        "close": 425.63,
+        "high": 428.24,
+        "low": 422.92,
+        "open": 423,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-13 00:00:00",
+        "volume": 303902
+    },
+    {
+        "close": 424.11,
+        "high": 427.5,
+        "low": 421.65,
+        "open": 425.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-14 00:00:00",
+        "volume": 175775
+    },
+    {
+        "close": 425.31,
+        "high": 425.62,
+        "low": 423.38,
+        "open": 424.11,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-15 00:00:00",
+        "volume": 112112
+    },
+    {
+        "close": 430.25,
+        "high": 436.97,
+        "low": 424.91,
+        "open": 425.31,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-16 00:00:00",
+        "volume": 417871
+    },
+    {
+        "close": 431.23,
+        "high": 434.97,
+        "low": 429.26,
+        "open": 430.25,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-17 00:00:00",
+        "volume": 358783
+    },
+    {
+        "close": 428.04,
+        "high": 432.21,
+        "low": 425.33,
+        "open": 431.23,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-18 00:00:00",
+        "volume": 244919
+    },
+    {
+        "close": 430.38,
+        "high": 430.38,
+        "low": 427.27,
+        "open": 428.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-19 00:00:00",
+        "volume": 139790
+    },
+    {
+        "close": 437.03,
+        "high": 438.85,
+        "low": 428.56,
+        "open": 430.38,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-20 00:00:00",
+        "volume": 226325
+    },
+    {
+        "close": 443.7,
+        "high": 446.49,
+        "low": 434.82,
+        "open": 437.03,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-21 00:00:00",
+        "volume": 710504
+    },
+    {
+        "close": 451.61,
+        "high": 453.63,
+        "low": 441.61,
+        "open": 443.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-22 00:00:00",
+        "volume": 1047914
+    },
+    {
+        "close": 448,
+        "high": 451.94,
+        "low": 444.23,
+        "open": 451.61,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-23 00:00:00",
+        "volume": 764968
+    },
+    {
+        "close": 454.75,
+        "high": 454.75,
+        "low": 445.82,
+        "open": 448,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-24 00:00:00",
+        "volume": 956624
+    },
+    {
+        "close": 464.32,
+        "high": 467.12,
+        "low": 447.81,
+        "open": 454.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-25 00:00:00",
+        "volume": 2135164
+    },
+    {
+        "close": 463.03,
+        "high": 472.32,
+        "low": 455.56,
+        "open": 464.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-26 00:00:00",
+        "volume": 1222200
+    },
+    {
+        "close": 468.43,
+        "high": 473.39,
+        "low": 462.63,
+        "open": 463.03,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-27 00:00:00",
+        "volume": 943793
+    },
+    {
+        "close": 445.11,
+        "high": 469.99,
+        "low": 443.03,
+        "open": 468.43,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-28 00:00:00",
+        "volume": 1385867
+    },
+    {
+        "close": 450.22,
+        "high": 450.36,
+        "low": 433,
+        "open": 445.11,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-29 00:00:00",
+        "volume": 1049334
+    },
+    {
+        "close": 456.39,
+        "high": 457.17,
+        "low": 445.79,
+        "open": 450.22,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-04-30 00:00:00",
+        "volume": 607830
+    },
+    {
+        "close": 446.7,
+        "high": 456.39,
+        "low": 445.52,
+        "open": 456.39,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-01 00:00:00",
+        "volume": 309677
+    },
+    {
+        "close": 451.41,
+        "high": 452.8,
+        "low": 446.57,
+        "open": 446.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-02 00:00:00",
+        "volume": 311584
+    },
+    {
+        "close": 443.59,
+        "high": 452.52,
+        "low": 437.06,
+        "open": 451.41,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-03 00:00:00",
+        "volume": 891501
+    },
+    {
+        "close": 449.75,
+        "high": 451.46,
+        "low": 439.66,
+        "open": 443.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-04 00:00:00",
+        "volume": 416444
+    },
+    {
+        "close": 446.95,
+        "high": 449.7,
+        "low": 444.07,
+        "open": 449.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-05 00:00:00",
+        "volume": 311163
+    },
+    {
+        "close": 448.09,
+        "high": 450.12,
+        "low": 445.43,
+        "open": 446.95,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-06 00:00:00",
+        "volume": 414141
+    },
+    {
+        "close": 459.91,
+        "high": 463.9,
+        "low": 447.1,
+        "open": 448.09,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-07 00:00:00",
+        "volume": 440302
+    },
+    {
+        "close": 459.52,
+        "high": 462.47,
+        "low": 457.38,
+        "open": 459.91,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-08 00:00:00",
+        "volume": 311135
+    },
+    {
+        "close": 459.9,
+        "high": 460.62,
+        "low": 455.61,
+        "open": 459.52,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-09 00:00:00",
+        "volume": 288704
+    },
+    {
+        "close": 462.23,
+        "high": 465.51,
+        "low": 456.5,
+        "open": 459.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-10 00:00:00",
+        "volume": 291938
+    },
+    {
+        "close": 450.6,
+        "high": 463.49,
+        "low": 445.6,
+        "open": 462.23,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-11 00:00:00",
+        "volume": 416197
+    },
+    {
+        "close": 451.56,
+        "high": 454.33,
+        "low": 450.33,
+        "open": 450.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-12 00:00:00",
+        "volume": 218195
+    },
+    {
+        "close": 454.75,
+        "high": 455.3,
+        "low": 446.4,
+        "open": 451.56,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-13 00:00:00",
+        "volume": 338949
+    },
+    {
+        "close": 456.49,
+        "high": 457.72,
+        "low": 452.56,
+        "open": 454.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-14 00:00:00",
+        "volume": 374620
+    },
+    {
+        "close": 455.81,
+        "high": 458.43,
+        "low": 454.69,
+        "open": 456.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-15 00:00:00",
+        "volume": 650624
+    },
+    {
+        "close": 457.75,
+        "high": 459.6,
+        "low": 454.84,
+        "open": 455.81,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-16 00:00:00",
+        "volume": 547849
+    },
+    {
+        "close": 452.7,
+        "high": 458.82,
+        "low": 450.33,
+        "open": 457.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-17 00:00:00",
+        "volume": 974502
+    },
+    {
+        "close": 452.75,
+        "high": 454.38,
+        "low": 451.65,
+        "open": 452.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-18 00:00:00",
+        "volume": 569805
+    },
+    {
+        "close": 454.01,
+        "high": 456.25,
+        "low": 452.07,
+        "open": 452.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-19 00:00:00",
+        "volume": 376248
+    },
+    {
+        "close": 433,
+        "high": 454.23,
+        "low": 432.86,
+        "open": 454.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-20 00:00:00",
+        "volume": 2140400
+    },
+    {
+        "close": 440.36,
+        "high": 442.67,
+        "low": 432.38,
+        "open": 433,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-21 00:00:00",
+        "volume": 1143359
+    },
+    {
+        "close": 440.49,
+        "high": 441.7,
+        "low": 437.26,
+        "open": 440.36,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-22 00:00:00",
+        "volume": 511318
+    },
+    {
+        "close": 436.61,
+        "high": 440.98,
+        "low": 434.81,
+        "open": 440.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-23 00:00:00",
+        "volume": 1184607
+    },
+    {
+        "close": 442.3,
+        "high": 443.35,
+        "low": 435.81,
+        "open": 436.61,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-24 00:00:00",
+        "volume": 1074909
+    },
+    {
+        "close": 443.06,
+        "high": 445.44,
+        "low": 441.64,
+        "open": 442.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-25 00:00:00",
+        "volume": 773484
+    },
+    {
+        "close": 447.01,
+        "high": 449.58,
+        "low": 443.32,
+        "open": 443.06,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-26 00:00:00",
+        "volume": 1136596
+    },
+    {
+        "close": 453.75,
+        "high": 453.82,
+        "low": 445,
+        "open": 447.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-27 00:00:00",
+        "volume": 1240088
+    },
+    {
+        "close": 474.55,
+        "high": 485.95,
+        "low": 453.75,
+        "open": 453.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-28 00:00:00",
+        "volume": 3907916
+    },
+    {
+        "close": 531,
+        "high": 544.95,
+        "low": 473.44,
+        "open": 474.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-29 00:00:00",
+        "volume": 7109386
+    },
+    {
+        "close": 536.74,
+        "high": 571,
+        "low": 512.49,
+        "open": 531,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-30 00:00:00",
+        "volume": 5516528
+    },
+    {
+        "close": 545.03,
+        "high": 562,
+        "low": 531.01,
+        "open": 536.74,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-05-31 00:00:00",
+        "volume": 2986123
+    },
+    {
+        "close": 537.01,
+        "high": 552.48,
+        "low": 520,
+        "open": 545.03,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-01 00:00:00",
+        "volume": 4405265
+    },
+    {
+        "close": 542,
+        "high": 550.5,
+        "low": 527.03,
+        "open": 537.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-02 00:00:00",
+        "volume": 2706525
+    },
+    {
+        "close": 542.02,
+        "high": 546.36,
+        "low": 533.52,
+        "open": 542,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-03 00:00:00",
+        "volume": 1279430
+    },
+    {
+        "close": 574.02,
+        "high": 581.53,
+        "low": 539.23,
+        "open": 542.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-04 00:00:00",
+        "volume": 4368529
+    },
+    {
+        "close": 574.26,
+        "high": 596.2,
+        "low": 565.17,
+        "open": 574.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-05 00:00:00",
+        "volume": 3878502
+    },
+    {
+        "close": 578.75,
+        "high": 590.89,
+        "low": 569.41,
+        "open": 574.26,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-06 00:00:00",
+        "volume": 2155101
+    },
+    {
+        "close": 591.59,
+        "high": 596.59,
+        "low": 577.43,
+        "open": 578.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-07 00:00:00",
+        "volume": 2610125
+    },
+    {
+        "close": 579.01,
+        "high": 600.99,
+        "low": 571.01,
+        "open": 591.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-08 00:00:00",
+        "volume": 3652548
+    },
+    {
+        "close": 586.86,
+        "high": 589.6,
+        "low": 572.79,
+        "open": 579.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-09 00:00:00",
+        "volume": 3103739
+    },
+    {
+        "close": 578.95,
+        "high": 586.91,
+        "low": 571.5,
+        "open": 586.86,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-10 00:00:00",
+        "volume": 3180193
+    },
+    {
+        "close": 582.28,
+        "high": 585.59,
+        "low": 575,
+        "open": 578.95,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-11 00:00:00",
+        "volume": 2654189
+    },
+    {
+        "close": 624.96,
+        "high": 627.89,
+        "low": 581.95,
+        "open": 582.28,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-12 00:00:00",
+        "volume": 2849180
+    },
+    {
+        "close": 682.99,
+        "high": 702.5,
+        "low": 616.69,
+        "open": 624.96,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-13 00:00:00",
+        "volume": 11119434
+    },
+    {
+        "close": 709.68,
+        "high": 749,
+        "low": 673.37,
+        "open": 682.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-14 00:00:00",
+        "volume": 10063692
+    },
+    {
+        "close": 684.07,
+        "high": 707.86,
+        "low": 659,
+        "open": 709.68,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-15 00:00:00",
+        "volume": 6955671
+    },
+    {
+        "close": 691.34,
+        "high": 700,
+        "low": 670.51,
+        "open": 684.07,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-16 00:00:00",
+        "volume": 4030472
+    },
+    {
+        "close": 773.68,
+        "high": 788,
+        "low": 696.8,
+        "open": 691.34,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-17 00:00:00",
+        "volume": 10178172
+    },
+    {
+        "close": 748.78,
+        "high": 782.89,
+        "low": 708.96,
+        "open": 773.68,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-18 00:00:00",
+        "volume": 9244522
+    },
+    {
+        "close": 753.9,
+        "high": 791.68,
+        "low": 721.51,
+        "open": 748.78,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-19 00:00:00",
+        "volume": 8891191
+    },
+    {
+        "close": 765.91,
+        "high": 778,
+        "low": 741.19,
+        "open": 753.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-20 00:00:00",
+        "volume": 5381788
+    },
+    {
+        "close": 737,
+        "high": 767,
+        "low": 723.06,
+        "open": 765.91,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-21 00:00:00",
+        "volume": 7213672
+    },
+    {
+        "close": 668.64,
+        "high": 750,
+        "low": 628.29,
+        "open": 737,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-22 00:00:00",
+        "volume": 14736687
+    },
+    {
+        "close": 603.99,
+        "high": 682.06,
+        "low": 584,
+        "open": 668.64,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-23 00:00:00",
+        "volume": 8922536
+    },
+    {
+        "close": 618.21,
+        "high": 627.4,
+        "low": 552.5,
+        "open": 603.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-24 00:00:00",
+        "volume": 13999736
+    },
+    {
+        "close": 666.32,
+        "high": 681.06,
+        "low": 617.88,
+        "open": 618.21,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-25 00:00:00",
+        "volume": 9089269
+    },
+    {
+        "close": 663.05,
+        "high": 695.4,
+        "low": 629.44,
+        "open": 666.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-26 00:00:00",
+        "volume": 7906033
+    },
+    {
+        "close": 627.5,
+        "high": 664.71,
+        "low": 598.59,
+        "open": 663.05,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-27 00:00:00",
+        "volume": 6574603
+    },
+    {
+        "close": 659.17,
+        "high": 666.98,
+        "low": 614.94,
+        "open": 627.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-28 00:00:00",
+        "volume": 6750387
+    },
+    {
+        "close": 646.55,
+        "high": 663.79,
+        "low": 631.85,
+        "open": 659.17,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-29 00:00:00",
+        "volume": 4347746
+    },
+    {
+        "close": 641.32,
+        "high": 648,
+        "low": 617.68,
+        "open": 646.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-06-30 00:00:00",
+        "volume": 4200081
+    },
+    {
+        "close": 676.33,
+        "high": 679.95,
+        "low": 635.01,
+        "open": 641.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-01 00:00:00",
+        "volume": 6088511
+    },
+    {
+        "close": 677.3,
+        "high": 688.36,
+        "low": 667,
+        "open": 676.33,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-02 00:00:00",
+        "volume": 4941252
+    },
+    {
+        "close": 706,
+        "high": 706.7,
+        "low": 676.72,
+        "open": 677.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-03 00:00:00",
+        "volume": 5198429
+    },
+    {
+        "close": 656.42,
+        "high": 707.1,
+        "low": 641.13,
+        "open": 706,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-04 00:00:00",
+        "volume": 8572721
+    },
+    {
+        "close": 679.75,
+        "high": 682.33,
+        "low": 641,
+        "open": 656.42,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-05 00:00:00",
+        "volume": 3858157
+    },
+    {
+        "close": 665.96,
+        "high": 680.39,
+        "low": 660.89,
+        "open": 679.75,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-06 00:00:00",
+        "volume": 3436515
+    },
+    {
+        "close": 677,
+        "high": 683.38,
+        "low": 667.02,
+        "open": 665.96,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-07 00:00:00",
+        "volume": 2410459
+    },
+    {
+        "close": 636.91,
+        "high": 683,
+        "low": 606.42,
+        "open": 677,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-08 00:00:00",
+        "volume": 9343010
+    },
+    {
+        "close": 661.6,
+        "high": 665.34,
+        "low": 631.02,
+        "open": 636.91,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-09 00:00:00",
+        "volume": 4506702
+    },
+    {
+        "close": 647.32,
+        "high": 664.54,
+        "low": 622,
+        "open": 661.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-10 00:00:00",
+        "volume": 6275406
+    },
+    {
+        "close": 650.49,
+        "high": 652.67,
+        "low": 634.91,
+        "open": 647.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-11 00:00:00",
+        "volume": 3043916
+    },
+    {
+        "close": 647.22,
+        "high": 660.19,
+        "low": 640,
+        "open": 650.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-12 00:00:00",
+        "volume": 3628843
+    },
+    {
+        "close": 668,
+        "high": 677.52,
+        "low": 645.19,
+        "open": 647.22,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-13 00:00:00",
+        "volume": 4193927
+    },
+    {
+        "close": 652.76,
+        "high": 667.99,
+        "low": 650.95,
+        "open": 668,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-14 00:00:00",
+        "volume": 1887767
+    },
+    {
+        "close": 657.51,
+        "high": 665.37,
+        "low": 648,
+        "open": 652.76,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-15 00:00:00",
+        "volume": 2503010
+    },
+    {
+        "close": 663.05,
+        "high": 670.67,
+        "low": 657.83,
+        "open": 657.51,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-16 00:00:00",
+        "volume": 1986904
+    },
+    {
+        "close": 660.94,
+        "high": 670,
+        "low": 652.61,
+        "open": 663.05,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-17 00:00:00",
+        "volume": 1497798
+    },
+    {
+        "close": 682.82,
+        "high": 689.21,
+        "low": 660.58,
+        "open": 660.94,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-18 00:00:00",
+        "volume": 3502003
+    },
+    {
+        "close": 674.2,
+        "high": 685.24,
+        "low": 663.21,
+        "open": 682.82,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-19 00:00:00",
+        "volume": 3418478
+    },
+    {
+        "close": 675.24,
+        "high": 676.85,
+        "low": 667,
+        "open": 674.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-20 00:00:00",
+        "volume": 1384098
+    },
+    {
+        "close": 665.21,
+        "high": 675.13,
+        "low": 655.32,
+        "open": 675.24,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-21 00:00:00",
+        "volume": 1879106
+    },
+    {
+        "close": 664.59,
+        "high": 667.73,
+        "low": 655,
+        "open": 665.21,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-22 00:00:00",
+        "volume": 1436203
+    },
+    {
+        "close": 648.28,
+        "high": 668.38,
+        "low": 640.53,
+        "open": 664.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-23 00:00:00",
+        "volume": 3342334
+    },
+    {
+        "close": 653.49,
+        "high": 658.05,
+        "low": 646.45,
+        "open": 648.28,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-24 00:00:00",
+        "volume": 1285178
+    },
+    {
+        "close": 661,
+        "high": 663.95,
+        "low": 650.05,
+        "open": 653.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-25 00:00:00",
+        "volume": 642298
+    },
+    {
+        "close": 652.95,
+        "high": 663.64,
+        "low": 647.81,
+        "open": 661,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-26 00:00:00",
+        "volume": 784937
+    },
+    {
+        "close": 649.93,
+        "high": 657,
+        "low": 637.71,
+        "open": 652.95,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-27 00:00:00",
+        "volume": 1895588
+    },
+    {
+        "close": 656.79,
+        "high": 662.36,
+        "low": 644.05,
+        "open": 649.93,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-28 00:00:00",
+        "volume": 1898480
+    },
+    {
+        "close": 654.69,
+        "high": 659.5,
+        "low": 646.87,
+        "open": 656.79,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-29 00:00:00",
+        "volume": 910987
+    },
+    {
+        "close": 657.67,
+        "high": 658.57,
+        "low": 653.3,
+        "open": 654.69,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-30 00:00:00",
+        "volume": 741958
+    },
+    {
+        "close": 654.84,
+        "high": 658.96,
+        "low": 650.84,
+        "open": 657.67,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-07-31 00:00:00",
+        "volume": 551816
+    },
+    {
+        "close": 621.31,
+        "high": 654.84,
+        "low": 618.02,
+        "open": 654.84,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-01 00:00:00",
+        "volume": 4277121
+    },
+    {
+        "close": 607.35,
+        "high": 626.49,
+        "low": 601.94,
+        "open": 621.31,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-02 00:00:00",
+        "volume": 2690512
+    },
+    {
+        "close": 528.83,
+        "high": 613.17,
+        "low": 469.03,
+        "open": 607.35,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-03 00:00:00",
+        "volume": 11521643
+    },
+    {
+        "close": 561.74,
+        "high": 578.38,
+        "low": 513.94,
+        "open": 528.83,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-04 00:00:00",
+        "volume": 6887135
+    },
+    {
+        "close": 573.12,
+        "high": 580,
+        "low": 555.15,
+        "open": 561.74,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-05 00:00:00",
+        "volume": 4322187
+    },
+    {
+        "close": 570.51,
+        "high": 574.94,
+        "low": 562,
+        "open": 573.12,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-06 00:00:00",
+        "volume": 2042397
+    },
+    {
+        "close": 585.81,
+        "high": 588.99,
+        "low": 560.09,
+        "open": 570.51,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-07 00:00:00",
+        "volume": 4375716
+    },
+    {
+        "close": 592.31,
+        "high": 598.02,
+        "low": 576.94,
+        "open": 585.81,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-08 00:00:00",
+        "volume": 2922495
+    },
+    {
+        "close": 586.94,
+        "high": 592.12,
+        "low": 583.91,
+        "open": 592.31,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-09 00:00:00",
+        "volume": 2137776
+    },
+    {
+        "close": 584,
+        "high": 594.57,
+        "low": 578.93,
+        "open": 586.94,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-10 00:00:00",
+        "volume": 2678606
+    },
+    {
+        "close": 588.98,
+        "high": 602.07,
+        "low": 579.87,
+        "open": 584,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-11 00:00:00",
+        "volume": 2640793
+    },
+    {
+        "close": 584.77,
+        "high": 597.83,
+        "low": 584.1,
+        "open": 588.98,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-12 00:00:00",
+        "volume": 1462216
+    },
+    {
+        "close": 586.7,
+        "high": 588.88,
+        "low": 578.51,
+        "open": 584.77,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-13 00:00:00",
+        "volume": 2097913
+    },
+    {
+        "close": 583.14,
+        "high": 588.95,
+        "low": 581.08,
+        "open": 586.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-14 00:00:00",
+        "volume": 808474
+    },
+    {
+        "close": 567.9,
+        "high": 583.85,
+        "low": 556.26,
+        "open": 583.14,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-15 00:00:00",
+        "volume": 2953768
+    },
+    {
+        "close": 566.03,
+        "high": 573,
+        "low": 557.55,
+        "open": 567.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-16 00:00:00",
+        "volume": 2308854
+    },
+    {
+        "close": 574,
+        "high": 581,
+        "low": 564.89,
+        "open": 566.03,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-17 00:00:00",
+        "volume": 1962549
+    },
+    {
+        "close": 570.85,
+        "high": 576.21,
+        "low": 566.96,
+        "open": 574,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-18 00:00:00",
+        "volume": 671403
+    },
+    {
+        "close": 571.45,
+        "high": 576.91,
+        "low": 569.94,
+        "open": 570.85,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-19 00:00:00",
+        "volume": 1521188
+    },
+    {
+        "close": 572.45,
+        "high": 574.52,
+        "low": 563.54,
+        "open": 571.45,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-20 00:00:00",
+        "volume": 1099687
+    },
+    {
+        "close": 580.23,
+        "high": 582.24,
+        "low": 572,
+        "open": 572.45,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-21 00:00:00",
+        "volume": 1069522
+    },
+    {
+        "close": 578.96,
+        "high": 584.11,
+        "low": 577.81,
+        "open": 580.23,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-22 00:00:00",
+        "volume": 679455
+    },
+    {
+        "close": 584.93,
+        "high": 588.6,
+        "low": 578.03,
+        "open": 578.96,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-23 00:00:00",
+        "volume": 1138901
+    },
+    {
+        "close": 580.5,
+        "high": 587.3,
+        "low": 575.82,
+        "open": 584.93,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-24 00:00:00",
+        "volume": 904556
+    },
+    {
+        "close": 576.12,
+        "high": 581.66,
+        "low": 574.38,
+        "open": 580.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-25 00:00:00",
+        "volume": 1062312
+    },
+    {
+        "close": 576.82,
+        "high": 579.2,
+        "low": 569.59,
+        "open": 576.12,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-26 00:00:00",
+        "volume": 1089796
+    },
+    {
+        "close": 576.57,
+        "high": 578.32,
+        "low": 575.14,
+        "open": 576.82,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-27 00:00:00",
+        "volume": 517379
+    },
+    {
+        "close": 567.18,
+        "high": 577.48,
+        "low": 562.32,
+        "open": 576.57,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-28 00:00:00",
+        "volume": 890705
+    },
+    {
+        "close": 572.22,
+        "high": 572.63,
+        "low": 566.07,
+        "open": 567.18,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-29 00:00:00",
+        "volume": 639407
+    },
+    {
+        "close": 571.72,
+        "high": 576.57,
+        "low": 570.4,
+        "open": 572.22,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-30 00:00:00",
+        "volume": 405639
+    },
+    {
+        "close": 576.91,
+        "high": 578.73,
+        "low": 571.49,
+        "open": 571.72,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-08-31 00:00:00",
+        "volume": 1060538
+    },
+    {
+        "close": 573.7,
+        "high": 577.88,
+        "low": 571.48,
+        "open": 576.91,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-01 00:00:00",
+        "volume": 543227
+    },
+    {
+        "close": 569.23,
+        "high": 574.65,
+        "low": 568.23,
+        "open": 573.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-02 00:00:00",
+        "volume": 402378
+    },
+    {
+        "close": 575.44,
+        "high": 575.49,
+        "low": 563.54,
+        "open": 569.23,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-03 00:00:00",
+        "volume": 1093275
+    },
+    {
+        "close": 596.34,
+        "high": 605.41,
+        "low": 571.96,
+        "open": 575.44,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-04 00:00:00",
+        "volume": 2754844
+    },
+    {
+        "close": 610.84,
+        "high": 614.12,
+        "low": 594.05,
+        "open": 596.34,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-05 00:00:00",
+        "volume": 3190670
+    },
+    {
+        "close": 608.04,
+        "high": 610.96,
+        "low": 599.08,
+        "open": 610.84,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-06 00:00:00",
+        "volume": 1415341
+    },
+    {
+        "close": 609.94,
+        "high": 611.89,
+        "low": 603.29,
+        "open": 608.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-07 00:00:00",
+        "volume": 1263034
+    },
+    {
+        "close": 613.2,
+        "high": 614.39,
+        "low": 606.18,
+        "open": 609.94,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-08 00:00:00",
+        "volume": 1917428
+    },
+    {
+        "close": 625.19,
+        "high": 631.54,
+        "low": 610.91,
+        "open": 613.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-09 00:00:00",
+        "volume": 2856334
+    },
+    {
+        "close": 622.28,
+        "high": 627.25,
+        "low": 615.54,
+        "open": 625.19,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-10 00:00:00",
+        "volume": 1790037
+    },
+    {
+        "close": 622.63,
+        "high": 625.21,
+        "low": 621.26,
+        "open": 622.28,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-11 00:00:00",
+        "volume": 840485
+    },
+    {
+        "close": 603.3,
+        "high": 632.01,
+        "low": 586.41,
+        "open": 622.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-12 00:00:00",
+        "volume": 4137372
+    },
+    {
+        "close": 606.23,
+        "high": 606.92,
+        "low": 599,
+        "open": 603.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-13 00:00:00",
+        "volume": 2041191
+    },
+    {
+        "close": 605.46,
+        "high": 608.93,
+        "low": 602.78,
+        "open": 606.23,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-14 00:00:00",
+        "volume": 1057732
+    },
+    {
+        "close": 607.63,
+        "high": 608,
+        "low": 604.18,
+        "open": 605.46,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-15 00:00:00",
+        "volume": 493421
+    },
+    {
+        "close": 605.02,
+        "high": 607.62,
+        "low": 601.69,
+        "open": 607.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-16 00:00:00",
+        "volume": 424104
+    },
+    {
+        "close": 604.91,
+        "high": 610,
+        "low": 597.04,
+        "open": 605.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-17 00:00:00",
+        "volume": 1858554
+    },
+    {
+        "close": 604.19,
+        "high": 605.56,
+        "low": 601.46,
+        "open": 604.91,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-18 00:00:00",
+        "volume": 395907
+    },
+    {
+        "close": 607.99,
+        "high": 608.8,
+        "low": 603.58,
+        "open": 604.19,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-19 00:00:00",
+        "volume": 337130
+    },
+    {
+        "close": 607.26,
+        "high": 609.63,
+        "low": 604.08,
+        "open": 607.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-20 00:00:00",
+        "volume": 641488
+    },
+    {
+        "close": 595.59,
+        "high": 608.83,
+        "low": 593.91,
+        "open": 607.26,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-21 00:00:00",
+        "volume": 842449
+    },
+    {
+        "close": 594.51,
+        "high": 596,
+        "low": 580.53,
+        "open": 595.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-22 00:00:00",
+        "volume": 2047206
+    },
+    {
+        "close": 594.39,
+        "high": 596.5,
+        "low": 593.06,
+        "open": 594.51,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-23 00:00:00",
+        "volume": 704756
+    },
+    {
+        "close": 600.57,
+        "high": 606.4,
+        "low": 591.6,
+        "open": 594.39,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-24 00:00:00",
+        "volume": 1295341
+    },
+    {
+        "close": 599.87,
+        "high": 603.01,
+        "low": 598.6,
+        "open": 600.57,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-25 00:00:00",
+        "volume": 409338
+    },
+    {
+        "close": 598.71,
+        "high": 601.11,
+        "low": 595.23,
+        "open": 599.87,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-26 00:00:00",
+        "volume": 365891
+    },
+    {
+        "close": 607.49,
+        "high": 609.88,
+        "low": 595.67,
+        "open": 598.71,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-27 00:00:00",
+        "volume": 1097555
+    },
+    {
+        "close": 604,
+        "high": 608.98,
+        "low": 600.9,
+        "open": 607.49,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-28 00:00:00",
+        "volume": 953708
+    },
+    {
+        "close": 603.09,
+        "high": 604,
+        "low": 601.25,
+        "open": 604,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-29 00:00:00",
+        "volume": 231622
+    },
+    {
+        "close": 604.59,
+        "high": 607.34,
+        "low": 602.26,
+        "open": 603.09,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-09-30 00:00:00",
+        "volume": 503374
+    },
+    {
+        "close": 609.6,
+        "high": 610.46,
+        "low": 603.09,
+        "open": 604.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-01 00:00:00",
+        "volume": 1156523
+    },
+    {
+        "close": 612.18,
+        "high": 619.99,
+        "low": 609.41,
+        "open": 609.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-02 00:00:00",
+        "volume": 1787145
+    },
+    {
+        "close": 609.98,
+        "high": 612.63,
+        "low": 605.07,
+        "open": 612.18,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-03 00:00:00",
+        "volume": 1080404
+    },
+    {
+        "close": 611.74,
+        "high": 612.2,
+        "low": 608.56,
+        "open": 609.98,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-04 00:00:00",
+        "volume": 375677
+    },
+    {
+        "close": 608.26,
+        "high": 611.98,
+        "low": 605.65,
+        "open": 611.74,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-05 00:00:00",
+        "volume": 557672
+    },
+    {
+        "close": 609.78,
+        "high": 613.1,
+        "low": 607.45,
+        "open": 608.26,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-06 00:00:00",
+        "volume": 931341
+    },
+    {
+        "close": 609.61,
+        "high": 610.52,
+        "low": 607.9,
+        "open": 609.78,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-07 00:00:00",
+        "volume": 718470
+    },
+    {
+        "close": 615.07,
+        "high": 616.37,
+        "low": 608.75,
+        "open": 609.61,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-08 00:00:00",
+        "volume": 1388344
+    },
+    {
+        "close": 615.25,
+        "high": 618.71,
+        "low": 613.88,
+        "open": 615.07,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-09 00:00:00",
+        "volume": 1039133
+    },
+    {
+        "close": 613.4,
+        "high": 615.51,
+        "low": 610.28,
+        "open": 615.25,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-10 00:00:00",
+        "volume": 1172197
+    },
+    {
+        "close": 617.51,
+        "high": 617.51,
+        "low": 610,
+        "open": 613.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-11 00:00:00",
+        "volume": 2129096
+    },
+    {
+        "close": 637.92,
+        "high": 643.23,
+        "low": 614.92,
+        "open": 617.51,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-12 00:00:00",
+        "volume": 5811167
+    },
+    {
+        "close": 632.88,
+        "high": 639.19,
+        "low": 630.43,
+        "open": 637.92,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-13 00:00:00",
+        "volume": 3878280
+    },
+    {
+        "close": 635,
+        "high": 637.01,
+        "low": 631.17,
+        "open": 632.88,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-14 00:00:00",
+        "volume": 3309571
+    },
+    {
+        "close": 638.72,
+        "high": 642,
+        "low": 632.44,
+        "open": 635,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-15 00:00:00",
+        "volume": 3752988
+    },
+    {
+        "close": 634.34,
+        "high": 641.02,
+        "low": 632.83,
+        "open": 638.72,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-16 00:00:00",
+        "volume": 2163074
+    },
+    {
+        "close": 638.82,
+        "high": 640.26,
+        "low": 633.24,
+        "open": 634.34,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-17 00:00:00",
+        "volume": 1937159
+    },
+    {
+        "close": 635.32,
+        "high": 639.9,
+        "low": 633.58,
+        "open": 638.82,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-18 00:00:00",
+        "volume": 1346687
+    },
+    {
+        "close": 634.79,
+        "high": 637.47,
+        "low": 631.41,
+        "open": 635.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-19 00:00:00",
+        "volume": 1079271
+    },
+    {
+        "close": 626.67,
+        "high": 635.31,
+        "low": 622.22,
+        "open": 634.79,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-20 00:00:00",
+        "volume": 2232821
+    },
+    {
+        "close": 627.32,
+        "high": 628.57,
+        "low": 622.4,
+        "open": 626.67,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-21 00:00:00",
+        "volume": 1214049
+    },
+    {
+        "close": 629.2,
+        "high": 630.62,
+        "low": 626.07,
+        "open": 627.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-22 00:00:00",
+        "volume": 1587562
+    },
+    {
+        "close": 657.32,
+        "high": 665.95,
+        "low": 629,
+        "open": 629.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-23 00:00:00",
+        "volume": 4849431
+    },
+    {
+        "close": 651.54,
+        "high": 682.56,
+        "low": 645.51,
+        "open": 657.32,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-24 00:00:00",
+        "volume": 3832454
+    },
+    {
+        "close": 647.1,
+        "high": 651.67,
+        "low": 645.25,
+        "open": 651.54,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-25 00:00:00",
+        "volume": 2492365
+    },
+    {
+        "close": 653.44,
+        "high": 665.98,
+        "low": 634.38,
+        "open": 647.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-26 00:00:00",
+        "volume": 4268765
+    },
+    {
+        "close": 675.4,
+        "high": 677.84,
+        "low": 652.88,
+        "open": 653.44,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-27 00:00:00",
+        "volume": 4231385
+    },
+    {
+        "close": 686.44,
+        "high": 686.81,
+        "low": 672.04,
+        "open": 675.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-28 00:00:00",
+        "volume": 4428027
+    },
+    {
+        "close": 686.69,
+        "high": 689.2,
+        "low": 675.66,
+        "open": 686.44,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-29 00:00:00",
+        "volume": 3260008
+    },
+    {
+        "close": 708.79,
+        "high": 721.05,
+        "low": 685.5,
+        "open": 686.69,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-30 00:00:00",
+        "volume": 7816582
+    },
+    {
+        "close": 697.46,
+        "high": 709.69,
+        "low": 686.5,
+        "open": 708.79,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-10-31 00:00:00",
+        "volume": 8338811
+    },
+    {
+        "close": 697,
+        "high": 707.33,
+        "low": 678.19,
+        "open": 697.46,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-01 00:00:00",
+        "volume": 4765620
+    },
+    {
+        "close": 732.37,
+        "high": 747,
+        "low": 697.01,
+        "open": 697,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-02 00:00:00",
+        "volume": 9145077
+    },
+    {
+        "close": 747.56,
+        "high": 755,
+        "low": 719.9,
+        "open": 732.37,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-03 00:00:00",
+        "volume": 4490739
+    },
+    {
+        "close": 684.5,
+        "high": 751.85,
+        "low": 659,
+        "open": 747.56,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-04 00:00:00",
+        "volume": 18721932
+    },
+    {
+        "close": 700.06,
+        "high": 707.47,
+        "low": 679.76,
+        "open": 684.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-05 00:00:00",
+        "volume": 6358036
+    },
+    {
+        "close": 701.45,
+        "high": 707.47,
+        "low": 693.77,
+        "open": 700.06,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-06 00:00:00",
+        "volume": 2644738
+    },
+    {
+        "close": 709.1,
+        "high": 719.15,
+        "low": 687,
+        "open": 701.45,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-07 00:00:00",
+        "volume": 6147766
+    },
+    {
+        "close": 701.34,
+        "high": 709.31,
+        "low": 696.75,
+        "open": 709.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-08 00:00:00",
+        "volume": 2480274
+    },
+    {
+        "close": 709,
+        "high": 713,
+        "low": 699.61,
+        "open": 701.34,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-09 00:00:00",
+        "volume": 3309053
+    },
+    {
+        "close": 722.63,
+        "high": 739,
+        "low": 708,
+        "open": 709,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-10 00:00:00",
+        "volume": 11989712
+    },
+    {
+        "close": 714.02,
+        "high": 723.72,
+        "low": 710.25,
+        "open": 722.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-11 00:00:00",
+        "volume": 4378648
+    },
+    {
+        "close": 718.5,
+        "high": 718.5,
+        "low": 710.51,
+        "open": 714.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-12 00:00:00",
+        "volume": 3512459
+    },
+    {
+        "close": 704.53,
+        "high": 721.94,
+        "low": 699.73,
+        "open": 718.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-13 00:00:00",
+        "volume": 2887101
+    },
+    {
+        "close": 700.11,
+        "high": 704.5,
+        "low": 679.84,
+        "open": 704.53,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-14 00:00:00",
+        "volume": 5153879
+    },
+    {
+        "close": 705.92,
+        "high": 707.04,
+        "low": 699.06,
+        "open": 700.11,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-15 00:00:00",
+        "volume": 2156250
+    },
+    {
+        "close": 712,
+        "high": 717.89,
+        "low": 705,
+        "open": 705.92,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-16 00:00:00",
+        "volume": 2616519
+    },
+    {
+        "close": 746.59,
+        "high": 763,
+        "low": 708.79,
+        "open": 712,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-17 00:00:00",
+        "volume": 10650191
+    },
+    {
+        "close": 738.88,
+        "high": 757.82,
+        "low": 736,
+        "open": 746.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-18 00:00:00",
+        "volume": 7566231
+    },
+    {
+        "close": 752.6,
+        "high": 754.06,
+        "low": 733,
+        "open": 738.88,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-19 00:00:00",
+        "volume": 4739459
+    },
+    {
+        "close": 750,
+        "high": 764.12,
+        "low": 730.02,
+        "open": 752.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-20 00:00:00",
+        "volume": 7697704
+    },
+    {
+        "close": 726.23,
+        "high": 755.7,
+        "low": 706,
+        "open": 750,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-21 00:00:00",
+        "volume": 10064329
+    },
+    {
+        "close": 735.82,
+        "high": 738.94,
+        "low": 724.63,
+        "open": 726.23,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-22 00:00:00",
+        "volume": 3832062
+    },
+    {
+        "close": 751.57,
+        "high": 754.84,
+        "low": 732.16,
+        "open": 735.82,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-23 00:00:00",
+        "volume": 4912893
+    },
+    {
+        "close": 740.47,
+        "high": 753.2,
+        "low": 730,
+        "open": 751.57,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-24 00:00:00",
+        "volume": 5425369
+    },
+    {
+        "close": 735.36,
+        "high": 744,
+        "low": 722,
+        "open": 740.47,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-25 00:00:00",
+        "volume": 6100525
+    },
+    {
+        "close": 737.4,
+        "high": 737.66,
+        "low": 723,
+        "open": 735.36,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-26 00:00:00",
+        "volume": 5338231
+    },
+    {
+        "close": 729.5,
+        "high": 738.64,
+        "low": 721.63,
+        "open": 737.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-27 00:00:00",
+        "volume": 3342078
+    },
+    {
+        "close": 727.66,
+        "high": 735,
+        "low": 724,
+        "open": 729.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-28 00:00:00",
+        "volume": 3745555
+    },
+    {
+        "close": 731.63,
+        "high": 732.82,
+        "low": 727.7,
+        "open": 727.66,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-29 00:00:00",
+        "volume": 2270663
+    },
+    {
+        "close": 731.02,
+        "high": 732.6,
+        "low": 727.14,
+        "open": 731.63,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-11-30 00:00:00",
+        "volume": 1612631
+    },
+    {
+        "close": 742.41,
+        "high": 745.7,
+        "low": 730.04,
+        "open": 731.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-01 00:00:00",
+        "volume": 3077042
+    },
+    {
+        "close": 753.8,
+        "high": 756.51,
+        "low": 741.88,
+        "open": 742.41,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-02 00:00:00",
+        "volume": 4256204
+    },
+    {
+        "close": 773,
+        "high": 780.21,
+        "low": 753.65,
+        "open": 753.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-03 00:00:00",
+        "volume": 9347994
+    },
+    {
+        "close": 763.7,
+        "high": 773.01,
+        "low": 757.14,
+        "open": 773,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-04 00:00:00",
+        "volume": 3567591
+    },
+    {
+        "close": 771.9,
+        "high": 772.06,
+        "low": 760.45,
+        "open": 763.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-05 00:00:00",
+        "volume": 3177048
+    },
+    {
+        "close": 750.46,
+        "high": 772.06,
+        "low": 740,
+        "open": 771.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-06 00:00:00",
+        "volume": 7726126
+    },
+    {
+        "close": 758.01,
+        "high": 759.31,
+        "low": 749.32,
+        "open": 750.46,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-07 00:00:00",
+        "volume": 3472910
+    },
+    {
+        "close": 762.96,
+        "high": 768.96,
+        "low": 751,
+        "open": 758.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-08 00:00:00",
+        "volume": 3837061
+    },
+    {
+        "close": 765.01,
+        "high": 772.45,
+        "low": 760.38,
+        "open": 762.96,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-09 00:00:00",
+        "volume": 3172780
+    },
+    {
+        "close": 769.81,
+        "high": 773.36,
+        "low": 764.83,
+        "open": 765.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-10 00:00:00",
+        "volume": 2559790
+    },
+    {
+        "close": 773.14,
+        "high": 777.73,
+        "low": 769.75,
+        "open": 769.81,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-11 00:00:00",
+        "volume": 2521198
+    },
+    {
+        "close": 768.97,
+        "high": 773.15,
+        "low": 761.4,
+        "open": 773.14,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-12 00:00:00",
+        "volume": 3710679
+    },
+    {
+        "close": 779.11,
+        "high": 783,
+        "low": 768.55,
+        "open": 768.97,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-13 00:00:00",
+        "volume": 4146102
+    },
+    {
+        "close": 772.3,
+        "high": 792.1,
+        "low": 761.25,
+        "open": 779.11,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-14 00:00:00",
+        "volume": 6427160
+    },
+    {
+        "close": 777.39,
+        "high": 779.8,
+        "low": 766.99,
+        "open": 772.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-15 00:00:00",
+        "volume": 3048757
+    },
+    {
+        "close": 776.69,
+        "high": 779,
+        "low": 774.98,
+        "open": 777.39,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-16 00:00:00",
+        "volume": 2180513
+    },
+    {
+        "close": 780.3,
+        "high": 784,
+        "low": 772.8,
+        "open": 776.69,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-17 00:00:00",
+        "volume": 4656446
+    },
+    {
+        "close": 788.85,
+        "high": 792.73,
+        "low": 779.3,
+        "open": 780.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-18 00:00:00",
+        "volume": 3892630
+    },
+    {
+        "close": 788.74,
+        "high": 791.96,
+        "low": 782.66,
+        "open": 788.85,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-19 00:00:00",
+        "volume": 4063920
+    },
+    {
+        "close": 790.04,
+        "high": 792.46,
+        "low": 787.68,
+        "open": 788.74,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-20 00:00:00",
+        "volume": 1931101
+    },
+    {
+        "close": 800.72,
+        "high": 807.43,
+        "low": 788.11,
+        "open": 790.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-21 00:00:00",
+        "volume": 6143988
+    },
+    {
+        "close": 836.11,
+        "high": 839,
+        "low": 797.5,
+        "open": 800.72,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-22 00:00:00",
+        "volume": 12386810
+    },
+    {
+        "close": 860.11,
+        "high": 877.36,
+        "low": 830.63,
+        "open": 836.11,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-23 00:00:00",
+        "volume": 16429663
+    },
+    {
+        "close": 924.71,
+        "high": 943.76,
+        "low": 859.58,
+        "open": 860.11,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-24 00:00:00",
+        "volume": 36854308
+    },
+    {
+        "close": 895.02,
+        "high": 927.18,
+        "low": 880,
+        "open": 924.71,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-25 00:00:00",
+        "volume": 18458431
+    },
+    {
+        "close": 892.55,
+        "high": 897.49,
+        "low": 861.2,
+        "open": 895.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-26 00:00:00",
+        "volume": 16050086
+    },
+    {
+        "close": 903.95,
+        "high": 916,
+        "low": 889.38,
+        "open": 892.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-27 00:00:00",
+        "volume": 11954738
+    },
+    {
+        "close": 933.98,
+        "high": 946.76,
+        "low": 898.84,
+        "open": 903.95,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-28 00:00:00",
+        "volume": 19463552
+    },
+    {
+        "close": 975.05,
+        "high": 978,
+        "low": 932.26,
+        "open": 933.98,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-29 00:00:00",
+        "volume": 30477206
+    },
+    {
+        "close": 973.23,
+        "high": 980,
+        "low": 941.72,
+        "open": 975.05,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-30 00:00:00",
+        "volume": 20133032
+    },
+    {
+        "close": 957.57,
+        "high": 971.8,
+        "low": 924.93,
+        "open": 973.23,
+        "symbol": "XBTUSD",
+        "timestamp": "2016-12-31 00:00:00",
+        "volume": 17415803
+    },
+    {
+        "close": 968.29,
+        "high": 968.39,
+        "low": 940,
+        "open": 957.57,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-01 00:00:00",
+        "volume": 12869720
+    },
+    {
+        "close": 1001.15,
+        "high": 1009.87,
+        "low": 960.9,
+        "open": 968.29,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-02 00:00:00",
+        "volume": 20292354
+    },
+    {
+        "close": 1022.76,
+        "high": 1035,
+        "low": 996.54,
+        "open": 1001.15,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-03 00:00:00",
+        "volume": 37013221
+    },
+    {
+        "close": 1036.9,
+        "high": 1040.66,
+        "low": 1003,
+        "open": 1022.76,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-04 00:00:00",
+        "volume": 21522604
+    },
+    {
+        "close": 1152,
+        "high": 1177.9,
+        "low": 1036.49,
+        "open": 1036.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-05 00:00:00",
+        "volume": 59945268
+    },
+    {
+        "close": 1005.33,
+        "high": 1180.45,
+        "low": 876.08,
+        "open": 1152,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-06 00:00:00",
+        "volume": 93256039
+    },
+    {
+        "close": 895.85,
+        "high": 1029.24,
+        "low": 841.75,
+        "open": 1005.33,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-07 00:00:00",
+        "volume": 54631519
+    },
+    {
+        "close": 908.22,
+        "high": 912.72,
+        "low": 805.03,
+        "open": 895.85,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-08 00:00:00",
+        "volume": 34472340
+    },
+    {
+        "close": 909.25,
+        "high": 939.33,
+        "low": 877.58,
+        "open": 908.22,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-09 00:00:00",
+        "volume": 25132654
+    },
+    {
+        "close": 895.46,
+        "high": 911.04,
+        "low": 860.21,
+        "open": 909.25,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-10 00:00:00",
+        "volume": 17125191
+    },
+    {
+        "close": 904,
+        "high": 916.99,
+        "low": 893.38,
+        "open": 895.46,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-11 00:00:00",
+        "volume": 10754420
+    },
+    {
+        "close": 764.2,
+        "high": 918.9,
+        "low": 725.44,
+        "open": 904,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-12 00:00:00",
+        "volume": 40654731
+    },
+    {
+        "close": 789.37,
+        "high": 819.87,
+        "low": 724,
+        "open": 764.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-13 00:00:00",
+        "volume": 21958396
+    },
+    {
+        "close": 822.3,
+        "high": 831.11,
+        "low": 752.91,
+        "open": 789.37,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-14 00:00:00",
+        "volume": 16685784
+    },
+    {
+        "close": 808.9,
+        "high": 836.1,
+        "low": 796.07,
+        "open": 822.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-15 00:00:00",
+        "volume": 12374030
+    },
+    {
+        "close": 816.54,
+        "high": 819,
+        "low": 800.86,
+        "open": 808.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-16 00:00:00",
+        "volume": 7907074
+    },
+    {
+        "close": 824.03,
+        "high": 834.99,
+        "low": 811.56,
+        "open": 816.54,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-17 00:00:00",
+        "volume": 9586760
+    },
+    {
+        "close": 903.71,
+        "high": 912.63,
+        "low": 822.98,
+        "open": 824.03,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-18 00:00:00",
+        "volume": 21292139
+    },
+    {
+        "close": 880,
+        "high": 915,
+        "low": 830,
+        "open": 903.71,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-19 00:00:00",
+        "volume": 20864102
+    },
+    {
+        "close": 893,
+        "high": 905.6,
+        "low": 874.16,
+        "open": 880,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-20 00:00:00",
+        "volume": 13326281
+    },
+    {
+        "close": 890.59,
+        "high": 897.46,
+        "low": 877.1,
+        "open": 893,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-21 00:00:00",
+        "volume": 9021036
+    },
+    {
+        "close": 917.4,
+        "high": 928,
+        "low": 888.05,
+        "open": 890.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-22 00:00:00",
+        "volume": 10845428
+    },
+    {
+        "close": 921.54,
+        "high": 935.56,
+        "low": 878.55,
+        "open": 917.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-23 00:00:00",
+        "volume": 17679151
+    },
+    {
+        "close": 910.22,
+        "high": 928,
+        "low": 905.63,
+        "open": 921.54,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-24 00:00:00",
+        "volume": 9519013
+    },
+    {
+        "close": 883.18,
+        "high": 927.54,
+        "low": 878.47,
+        "open": 910.22,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-25 00:00:00",
+        "volume": 17176581
+    },
+    {
+        "close": 894.19,
+        "high": 903.06,
+        "low": 882.5,
+        "open": 883.18,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-26 00:00:00",
+        "volume": 8284461
+    },
+    {
+        "close": 913.26,
+        "high": 918.04,
+        "low": 892.24,
+        "open": 894.19,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-27 00:00:00",
+        "volume": 6868194
+    },
+    {
+        "close": 915.7,
+        "high": 921.3,
+        "low": 904,
+        "open": 913.26,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-28 00:00:00",
+        "volume": 11963721
+    },
+    {
+        "close": 917.9,
+        "high": 921,
+        "low": 915.19,
+        "open": 915.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-29 00:00:00",
+        "volume": 2826407
+    },
+    {
+        "close": 912.71,
+        "high": 920.02,
+        "low": 911.04,
+        "open": 917.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-30 00:00:00",
+        "volume": 2692282
+    },
+    {
+        "close": 916.26,
+        "high": 920.3,
+        "low": 910.01,
+        "open": 912.71,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-01-31 00:00:00",
+        "volume": 2969419
+    },
+    {
+        "close": 969.15,
+        "high": 973.95,
+        "low": 916.36,
+        "open": 916.26,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-01 00:00:00",
+        "volume": 14230533
+    },
+    {
+        "close": 985.3,
+        "high": 989,
+        "low": 960.92,
+        "open": 969.15,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-02 00:00:00",
+        "volume": 9316705
+    },
+    {
+        "close": 1008,
+        "high": 1014.84,
+        "low": 968.89,
+        "open": 985.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-03 00:00:00",
+        "volume": 18804912
+    },
+    {
+        "close": 1017.73,
+        "high": 1027.01,
+        "low": 985.75,
+        "open": 1008,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-04 00:00:00",
+        "volume": 22318525
+    },
+    {
+        "close": 1035.09,
+        "high": 1046.67,
+        "low": 1003,
+        "open": 1017.73,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-05 00:00:00",
+        "volume": 24541017
+    },
+    {
+        "close": 1014.83,
+        "high": 1037.38,
+        "low": 1005.43,
+        "open": 1035.09,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-06 00:00:00",
+        "volume": 20312523
+    },
+    {
+        "close": 1025,
+        "high": 1033,
+        "low": 1012.75,
+        "open": 1014.83,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-07 00:00:00",
+        "volume": 7211615
+    },
+    {
+        "close": 1054.37,
+        "high": 1057.52,
+        "low": 1024.72,
+        "open": 1025,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-08 00:00:00",
+        "volume": 15270248
+    },
+    {
+        "close": 1052.62,
+        "high": 1072.78,
+        "low": 994.8,
+        "open": 1054.37,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-09 00:00:00",
+        "volume": 35838124
+    },
+    {
+        "close": 984.02,
+        "high": 1081.05,
+        "low": 927.72,
+        "open": 1052.62,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-10 00:00:00",
+        "volume": 58932811
+    },
+    {
+        "close": 988.11,
+        "high": 1003,
+        "low": 934.5,
+        "open": 984.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-11 00:00:00",
+        "volume": 30153996
+    },
+    {
+        "close": 1003,
+        "high": 1010.95,
+        "low": 978.01,
+        "open": 988.11,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-12 00:00:00",
+        "volume": 15308914
+    },
+    {
+        "close": 995.09,
+        "high": 1006.53,
+        "low": 992.23,
+        "open": 1003,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-13 00:00:00",
+        "volume": 6852679
+    },
+    {
+        "close": 990.95,
+        "high": 1002.97,
+        "low": 956.13,
+        "open": 995.09,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-14 00:00:00",
+        "volume": 15705639
+    },
+    {
+        "close": 1008.5,
+        "high": 1021.79,
+        "low": 975,
+        "open": 990.95,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-15 00:00:00",
+        "volume": 16691893
+    },
+    {
+        "close": 1006.7,
+        "high": 1012,
+        "low": 994.01,
+        "open": 1008.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-16 00:00:00",
+        "volume": 5840460
+    },
+    {
+        "close": 1035.65,
+        "high": 1044.48,
+        "low": 1006.51,
+        "open": 1006.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-17 00:00:00",
+        "volume": 16624041
+    },
+    {
+        "close": 1050.1,
+        "high": 1057.5,
+        "low": 1026.3,
+        "open": 1035.65,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-18 00:00:00",
+        "volume": 21722362
+    },
+    {
+        "close": 1056.02,
+        "high": 1067.86,
+        "low": 1022.05,
+        "open": 1050.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-19 00:00:00",
+        "volume": 19298680
+    },
+    {
+        "close": 1050.44,
+        "high": 1058.16,
+        "low": 1037.59,
+        "open": 1056.02,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-20 00:00:00",
+        "volume": 12108730
+    },
+    {
+        "close": 1085.07,
+        "high": 1094.7,
+        "low": 1042,
+        "open": 1050.44,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-21 00:00:00",
+        "volume": 16509215
+    },
+    {
+        "close": 1123.18,
+        "high": 1127.8,
+        "low": 1068.21,
+        "open": 1085.07,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-22 00:00:00",
+        "volume": 41743050
+    },
+    {
+        "close": 1114.27,
+        "high": 1128.9,
+        "low": 1100,
+        "open": 1123.18,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-23 00:00:00",
+        "volume": 31854380
+    },
+    {
+        "close": 1183.55,
+        "high": 1193.23,
+        "low": 1110.39,
+        "open": 1114.27,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-24 00:00:00",
+        "volume": 46622434
+    },
+    {
+        "close": 1172.42,
+        "high": 1220.16,
+        "low": 1030,
+        "open": 1183.55,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-25 00:00:00",
+        "volume": 77794209
+    },
+    {
+        "close": 1151.03,
+        "high": 1183.33,
+        "low": 1125,
+        "open": 1172.42,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-26 00:00:00",
+        "volume": 27949897
+    },
+    {
+        "close": 1177,
+        "high": 1185.01,
+        "low": 1130.58,
+        "open": 1151.03,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-27 00:00:00",
+        "volume": 21172640
+    },
+    {
+        "close": 1194.87,
+        "high": 1197.99,
+        "low": 1165.95,
+        "open": 1177,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-02-28 00:00:00",
+        "volume": 21803886
+    },
+    {
+        "close": 1187.31,
+        "high": 1212.66,
+        "low": 1152.27,
+        "open": 1194.87,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-01 00:00:00",
+        "volume": 31384856
+    },
+    {
+        "close": 1234.19,
+        "high": 1234.19,
+        "low": 1182.4,
+        "open": 1187.31,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-02 00:00:00",
+        "volume": 25069015
+    },
+    {
+        "close": 1257.65,
+        "high": 1279,
+        "low": 1200,
+        "open": 1234.19,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-03 00:00:00",
+        "volume": 41418642
+    },
+    {
+        "close": 1291,
+        "high": 1297,
+        "low": 1256.3,
+        "open": 1257.65,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-04 00:00:00",
+        "volume": 39431131
+    },
+    {
+        "close": 1266.54,
+        "high": 1292.76,
+        "low": 1235.01,
+        "open": 1291,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-05 00:00:00",
+        "volume": 36040668
+    },
+    {
+        "close": 1277.81,
+        "high": 1278.52,
+        "low": 1238.01,
+        "open": 1266.54,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-06 00:00:00",
+        "volume": 19827628
+    },
+    {
+        "close": 1279.79,
+        "high": 1284.9,
+        "low": 1263,
+        "open": 1277.81,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-07 00:00:00",
+        "volume": 20812724
+    },
+    {
+        "close": 1231.99,
+        "high": 1281,
+        "low": 1166,
+        "open": 1279.79,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-08 00:00:00",
+        "volume": 55319867
+    },
+    {
+        "close": 1151.59,
+        "high": 1239.97,
+        "low": 1143.44,
+        "open": 1231.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-09 00:00:00",
+        "volume": 82456629
+    },
+    {
+        "close": 1189.87,
+        "high": 1206,
+        "low": 1135,
+        "open": 1151.59,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-10 00:00:00",
+        "volume": 47703137
+    },
+    {
+        "close": 1119.08,
+        "high": 1337.58,
+        "low": 966,
+        "open": 1189.87,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-11 00:00:00",
+        "volume": 105434261
+    },
+    {
+        "close": 1181.68,
+        "high": 1200.47,
+        "low": 1107.88,
+        "open": 1119.08,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-12 00:00:00",
+        "volume": 33170387
+    },
+    {
+        "close": 1227.04,
+        "high": 1236.88,
+        "low": 1175.38,
+        "open": 1181.68,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-13 00:00:00",
+        "volume": 24150871
+    },
+    {
+        "close": 1243.26,
+        "high": 1249.27,
+        "low": 1212.76,
+        "open": 1227.04,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-14 00:00:00",
+        "volume": 24724492
+    },
+    {
+        "close": 1246.62,
+        "high": 1263.35,
+        "low": 1225.45,
+        "open": 1243.26,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-15 00:00:00",
+        "volume": 17946218
+    },
+    {
+        "close": 1260.28,
+        "high": 1264.84,
+        "low": 1242.51,
+        "open": 1246.62,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-16 00:00:00",
+        "volume": 14362472
+    },
+    {
+        "close": 1174,
+        "high": 1260.27,
+        "low": 1134.54,
+        "open": 1260.28,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-17 00:00:00",
+        "volume": 51238296
+    },
+    {
+        "close": 1068.98,
+        "high": 1173.51,
+        "low": 1065,
+        "open": 1174,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-18 00:00:00",
+        "volume": 89088990
+    },
+    {
+        "close": 970,
+        "high": 1099.64,
+        "low": 936,
+        "open": 1068.98,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-19 00:00:00",
+        "volume": 120443995
+    },
+    {
+        "close": 1018.82,
+        "high": 1066.33,
+        "low": 969.78,
+        "open": 970,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-20 00:00:00",
+        "volume": 42910547
+    },
+    {
+        "close": 1037.99,
+        "high": 1053.95,
+        "low": 1014.74,
+        "open": 1018.82,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-21 00:00:00",
+        "volume": 22937798
+    },
+    {
+        "close": 1111.78,
+        "high": 1120,
+        "low": 1037.99,
+        "open": 1037.99,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-22 00:00:00",
+        "volume": 38653846
+    },
+    {
+        "close": 1036.31,
+        "high": 1112.82,
+        "low": 989,
+        "open": 1111.78,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-23 00:00:00",
+        "volume": 64913125
+    },
+    {
+        "close": 1031.01,
+        "high": 1052.62,
+        "low": 1015.43,
+        "open": 1036.31,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-24 00:00:00",
+        "volume": 20108266
+    },
+    {
+        "close": 936,
+        "high": 1032.94,
+        "low": 921.2,
+        "open": 1031.01,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-25 00:00:00",
+        "volume": 64951798
+    },
+    {
+        "close": 965.08,
+        "high": 971.98,
+        "low": 889.88,
+        "open": 936,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-26 00:00:00",
+        "volume": 61314424
+    },
+    {
+        "close": 964.71,
+        "high": 1005.07,
+        "low": 944.24,
+        "open": 965.08,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-27 00:00:00",
+        "volume": 47108801
+    },
+    {
+        "close": 1038.84,
+        "high": 1042.96,
+        "low": 956.76,
+        "open": 964.71,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-28 00:00:00",
+        "volume": 33173819
+    },
+    {
+        "close": 1042.37,
+        "high": 1065.98,
+        "low": 1017.72,
+        "open": 1038.84,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-29 00:00:00",
+        "volume": 29478070
+    },
+    {
+        "close": 1041.31,
+        "high": 1061.98,
+        "low": 1008.02,
+        "open": 1042.37,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-30 00:00:00",
+        "volume": 33905422
+    },
+    {
+        "close": 1034.35,
+        "high": 1055.46,
+        "low": 1019.8,
+        "open": 1041.31,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-03-31 00:00:00",
+        "volume": 15313239
+    },
+    {
+        "close": 1079.9,
+        "high": 1095.8,
+        "low": 1034.35,
+        "open": 1034.35,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-01 00:00:00",
+        "volume": 30973280
+    },
+    {
+        "close": 1090.7,
+        "high": 1104.7,
+        "low": 1065,
+        "open": 1079.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-02 00:00:00",
+        "volume": 19277155
+    },
+    {
+        "close": 1098.6,
+        "high": 1111.1,
+        "low": 1075.9,
+        "open": 1090.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-03 00:00:00",
+        "volume": 16682232
+    },
+    {
+        "close": 1145.7,
+        "high": 1155.4,
+        "low": 1098.5,
+        "open": 1098.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-04 00:00:00",
+        "volume": 31513035
+    },
+    {
+        "close": 1142.9,
+        "high": 1160.9,
+        "low": 1122.2,
+        "open": 1145.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-05 00:00:00",
+        "volume": 20987411
+    },
+    {
+        "close": 1135,
+        "high": 1145,
+        "low": 1107,
+        "open": 1142.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-06 00:00:00",
+        "volume": 19382938
+    },
+    {
+        "close": 1188.1,
+        "high": 1201.6,
+        "low": 1134.3,
+        "open": 1135,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-07 00:00:00",
+        "volume": 28186329
+    },
+    {
+        "close": 1191.9,
+        "high": 1204.9,
+        "low": 1173.2,
+        "open": 1188.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-08 00:00:00",
+        "volume": 24879651
+    },
+    {
+        "close": 1183.8,
+        "high": 1198.5,
+        "low": 1167.4,
+        "open": 1191.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-09 00:00:00",
+        "volume": 15059259
+    },
+    {
+        "close": 1211.2,
+        "high": 1227.1,
+        "low": 1176.9,
+        "open": 1183.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-10 00:00:00",
+        "volume": 18732082
+    },
+    {
+        "close": 1213.6,
+        "high": 1224.1,
+        "low": 1201.1,
+        "open": 1211.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-11 00:00:00",
+        "volume": 16058919
+    },
+    {
+        "close": 1224,
+        "high": 1238.5,
+        "low": 1201.6,
+        "open": 1213.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-12 00:00:00",
+        "volume": 17908181
+    },
+    {
+        "close": 1217.1,
+        "high": 1228.3,
+        "low": 1213.7,
+        "open": 1224,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-13 00:00:00",
+        "volume": 12500747
+    },
+    {
+        "close": 1177.9,
+        "high": 1225.1,
+        "low": 1128,
+        "open": 1217.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-14 00:00:00",
+        "volume": 35638175
+    },
+    {
+        "close": 1187.8,
+        "high": 1201,
+        "low": 1173.7,
+        "open": 1177.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-15 00:00:00",
+        "volume": 18162898
+    },
+    {
+        "close": 1179.5,
+        "high": 1203.8,
+        "low": 1125,
+        "open": 1187.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-16 00:00:00",
+        "volume": 12453014
+    },
+    {
+        "close": 1193,
+        "high": 1198.6,
+        "low": 1174.8,
+        "open": 1179.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-17 00:00:00",
+        "volume": 7305886
+    },
+    {
+        "close": 1197,
+        "high": 1225,
+        "low": 1186.7,
+        "open": 1193,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-18 00:00:00",
+        "volume": 18209458
+    },
+    {
+        "close": 1209.3,
+        "high": 1221.1,
+        "low": 1197.1,
+        "open": 1197,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-19 00:00:00",
+        "volume": 11300122
+    },
+    {
+        "close": 1209.6,
+        "high": 1216.8,
+        "low": 1196.7,
+        "open": 1209.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-20 00:00:00",
+        "volume": 11647456
+    },
+    {
+        "close": 1239,
+        "high": 1248.3,
+        "low": 1210,
+        "open": 1209.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-21 00:00:00",
+        "volume": 18959907
+    },
+    {
+        "close": 1249.3,
+        "high": 1257.5,
+        "low": 1237.8,
+        "open": 1239,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-22 00:00:00",
+        "volume": 14421415
+    },
+    {
+        "close": 1243,
+        "high": 1255,
+        "low": 1210,
+        "open": 1249.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-23 00:00:00",
+        "volume": 19863750
+    },
+    {
+        "close": 1246.9,
+        "high": 1251.1,
+        "low": 1230.6,
+        "open": 1243,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-24 00:00:00",
+        "volume": 7243533
+    },
+    {
+        "close": 1255.5,
+        "high": 1258.5,
+        "low": 1238.9,
+        "open": 1246.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-25 00:00:00",
+        "volume": 6407156
+    },
+    {
+        "close": 1277.9,
+        "high": 1290.4,
+        "low": 1254.4,
+        "open": 1255.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-26 00:00:00",
+        "volume": 14007798
+    },
+    {
+        "close": 1296.4,
+        "high": 1316.7,
+        "low": 1274.7,
+        "open": 1277.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-27 00:00:00",
+        "volume": 23479688
+    },
+    {
+        "close": 1344.3,
+        "high": 1357,
+        "low": 1291.7,
+        "open": 1296.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-28 00:00:00",
+        "volume": 23736798
+    },
+    {
+        "close": 1339.7,
+        "high": 1362.2,
+        "low": 1298,
+        "open": 1344.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-29 00:00:00",
+        "volume": 32294442
+    },
+    {
+        "close": 1347.4,
+        "high": 1356.1,
+        "low": 1329.8,
+        "open": 1339.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-04-30 00:00:00",
+        "volume": 14063378
+    },
+    {
+        "close": 1366.6,
+        "high": 1374.6,
+        "low": 1330,
+        "open": 1347.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-01 00:00:00",
+        "volume": 17320159
+    },
+    {
+        "close": 1422.3,
+        "high": 1449.7,
+        "low": 1366,
+        "open": 1366.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-02 00:00:00",
+        "volume": 35495465
+    },
+    {
+        "close": 1460.6,
+        "high": 1486,
+        "low": 1408.3,
+        "open": 1422.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-03 00:00:00",
+        "volume": 42017488
+    },
+    {
+        "close": 1517.3,
+        "high": 1518.3,
+        "low": 1446,
+        "open": 1460.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-04 00:00:00",
+        "volume": 40341927
+    },
+    {
+        "close": 1551,
+        "high": 1658,
+        "low": 1441.5,
+        "open": 1517.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-05 00:00:00",
+        "volume": 108750975
+    },
+    {
+        "close": 1529.6,
+        "high": 1627,
+        "low": 1499,
+        "open": 1551,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-06 00:00:00",
+        "volume": 83633976
+    },
+    {
+        "close": 1572.1,
+        "high": 1586.5,
+        "low": 1522.4,
+        "open": 1529.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-07 00:00:00",
+        "volume": 32719292
+    },
+    {
+        "close": 1590,
+        "high": 1604.1,
+        "low": 1541.2,
+        "open": 1572.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-08 00:00:00",
+        "volume": 23027368
+    },
+    {
+        "close": 1680.1,
+        "high": 1681.9,
+        "low": 1589.9,
+        "open": 1590,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-09 00:00:00",
+        "volume": 38028842
+    },
+    {
+        "close": 1729.9,
+        "high": 1791.2,
+        "low": 1636,
+        "open": 1680.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-10 00:00:00",
+        "volume": 83904463
+    },
+    {
+        "close": 1783.2,
+        "high": 1797,
+        "low": 1691.3,
+        "open": 1729.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-11 00:00:00",
+        "volume": 41525066
+    },
+    {
+        "close": 1835.7,
+        "high": 1890,
+        "low": 1752,
+        "open": 1783.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-12 00:00:00",
+        "volume": 72706918
+    },
+    {
+        "close": 1692.3,
+        "high": 1841.1,
+        "low": 1650,
+        "open": 1835.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-13 00:00:00",
+        "volume": 99652672
+    },
+    {
+        "close": 1787,
+        "high": 1787.8,
+        "low": 1598.4,
+        "open": 1692.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-14 00:00:00",
+        "volume": 81130427
+    },
+    {
+        "close": 1804.2,
+        "high": 1824,
+        "low": 1756.9,
+        "open": 1787,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-15 00:00:00",
+        "volume": 44035178
+    },
+    {
+        "close": 1740.8,
+        "high": 1804.1,
+        "low": 1685.8,
+        "open": 1804.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-16 00:00:00",
+        "volume": 58208348
+    },
+    {
+        "close": 1746,
+        "high": 1768,
+        "low": 1676.6,
+        "open": 1740.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-17 00:00:00",
+        "volume": 32788786
+    },
+    {
+        "close": 1813.4,
+        "high": 1848.1,
+        "low": 1719.2,
+        "open": 1746,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-18 00:00:00",
+        "volume": 46266930
+    },
+    {
+        "close": 1894.1,
+        "high": 1905.7,
+        "low": 1808.4,
+        "open": 1813.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-19 00:00:00",
+        "volume": 35239579
+    },
+    {
+        "close": 1960,
+        "high": 1972.6,
+        "low": 1894.1,
+        "open": 1894.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-20 00:00:00",
+        "volume": 49097144
+    },
+    {
+        "close": 2053.8,
+        "high": 2067.8,
+        "low": 1955,
+        "open": 1960,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-21 00:00:00",
+        "volume": 41810081
+    },
+    {
+        "close": 2041.2,
+        "high": 2090,
+        "low": 1970.2,
+        "open": 2053.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-22 00:00:00",
+        "volume": 64347188
+    },
+    {
+        "close": 2105,
+        "high": 2270,
+        "low": 1990.1,
+        "open": 2041.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-23 00:00:00",
+        "volume": 124747461
+    },
+    {
+        "close": 2268.1,
+        "high": 2279.5,
+        "low": 2097.2,
+        "open": 2105,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-24 00:00:00",
+        "volume": 84276631
+    },
+    {
+        "close": 2431.6,
+        "high": 2494.6,
+        "low": 2268.5,
+        "open": 2268.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-25 00:00:00",
+        "volume": 113302810
+    },
+    {
+        "close": 2306.3,
+        "high": 2811,
+        "low": 2181.2,
+        "open": 2431.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-26 00:00:00",
+        "volume": 258820855
+    },
+    {
+        "close": 2273.7,
+        "high": 2624.2,
+        "low": 2055,
+        "open": 2306.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-27 00:00:00",
+        "volume": 217245534
+    },
+    {
+        "close": 2089.9,
+        "high": 2349.5,
+        "low": 1900,
+        "open": 2273.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-28 00:00:00",
+        "volume": 171666529
+    },
+    {
+        "close": 2210.9,
+        "high": 2326,
+        "low": 2088.2,
+        "open": 2089.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-29 00:00:00",
+        "volume": 106883281
+    },
+    {
+        "close": 2309.6,
+        "high": 2373.5,
+        "low": 2128.3,
+        "open": 2210.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-30 00:00:00",
+        "volume": 74745158
+    },
+    {
+        "close": 2191.4,
+        "high": 2360,
+        "low": 2122.4,
+        "open": 2309.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-05-31 00:00:00",
+        "volume": 67301051
+    },
+    {
+        "close": 2304.1,
+        "high": 2340,
+        "low": 2155,
+        "open": 2191.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-01 00:00:00",
+        "volume": 53059287
+    },
+    {
+        "close": 2416.8,
+        "high": 2465.7,
+        "low": 2302,
+        "open": 2304.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-02 00:00:00",
+        "volume": 57279425
+    },
+    {
+        "close": 2497.9,
+        "high": 2501.2,
+        "low": 2376,
+        "open": 2416.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-03 00:00:00",
+        "volume": 41297438
+    },
+    {
+        "close": 2543.4,
+        "high": 2582.5,
+        "low": 2450,
+        "open": 2497.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-04 00:00:00",
+        "volume": 54746338
+    },
+    {
+        "close": 2529.3,
+        "high": 2569.4,
+        "low": 2464.2,
+        "open": 2543.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-05 00:00:00",
+        "volume": 43808075
+    },
+    {
+        "close": 2715.4,
+        "high": 2723.4,
+        "low": 2523.3,
+        "open": 2529.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-06 00:00:00",
+        "volume": 52810719
+    },
+    {
+        "close": 2897.9,
+        "high": 2955,
+        "low": 2703.2,
+        "open": 2715.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-07 00:00:00",
+        "volume": 147030693
+    },
+    {
+        "close": 2667.6,
+        "high": 2914.1,
+        "low": 2610,
+        "open": 2897.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-08 00:00:00",
+        "volume": 103352659
+    },
+    {
+        "close": 2817.7,
+        "high": 2827.2,
+        "low": 2589,
+        "open": 2667.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-09 00:00:00",
+        "volume": 68819033
+    },
+    {
+        "close": 2817.2,
+        "high": 2866.8,
+        "low": 2788.3,
+        "open": 2817.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-10 00:00:00",
+        "volume": 46577238
+    },
+    {
+        "close": 2922,
+        "high": 2930.5,
+        "low": 2803,
+        "open": 2817.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-11 00:00:00",
+        "volume": 52286178
+    },
+    {
+        "close": 2994.8,
+        "high": 3017,
+        "low": 2879.9,
+        "open": 2922,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-12 00:00:00",
+        "volume": 48306924
+    },
+    {
+        "close": 2656.5,
+        "high": 3006.9,
+        "low": 2470,
+        "open": 2994.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-13 00:00:00",
+        "volume": 187239903
+    },
+    {
+        "close": 2702.6,
+        "high": 2790.3,
+        "low": 2635.1,
+        "open": 2656.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-14 00:00:00",
+        "volume": 63913652
+    },
+    {
+        "close": 2432.9,
+        "high": 2798.9,
+        "low": 2320,
+        "open": 2702.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-15 00:00:00",
+        "volume": 139982991
+    },
+    {
+        "close": 2410.7,
+        "high": 2501.3,
+        "low": 2095.5,
+        "open": 2432.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-16 00:00:00",
+        "volume": 179250376
+    },
+    {
+        "close": 2471,
+        "high": 2518.6,
+        "low": 2290,
+        "open": 2410.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-17 00:00:00",
+        "volume": 83294972
+    },
+    {
+        "close": 2626.3,
+        "high": 2678.1,
+        "low": 2406.8,
+        "open": 2471,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-18 00:00:00",
+        "volume": 67003395
+    },
+    {
+        "close": 2525,
+        "high": 2677.1,
+        "low": 2457,
+        "open": 2626.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-19 00:00:00",
+        "volume": 76508816
+    },
+    {
+        "close": 2598.8,
+        "high": 2600.8,
+        "low": 2485.2,
+        "open": 2525,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-20 00:00:00",
+        "volume": 42089739
+    },
+    {
+        "close": 2736.8,
+        "high": 2802.5,
+        "low": 2580,
+        "open": 2598.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-21 00:00:00",
+        "volume": 62478121
+    },
+    {
+        "close": 2652.7,
+        "high": 2788.9,
+        "low": 2595,
+        "open": 2736.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-22 00:00:00",
+        "volume": 85189260
+    },
+    {
+        "close": 2699.9,
+        "high": 2730,
+        "low": 2589,
+        "open": 2652.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-23 00:00:00",
+        "volume": 38506589
+    },
+    {
+        "close": 2678.9,
+        "high": 2744.1,
+        "low": 2649.1,
+        "open": 2699.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-24 00:00:00",
+        "volume": 30749419
+    },
+    {
+        "close": 2559.5,
+        "high": 2717.9,
+        "low": 2502,
+        "open": 2678.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-25 00:00:00",
+        "volume": 66355372
+    },
+    {
+        "close": 2507.9,
+        "high": 2635.2,
+        "low": 2424.8,
+        "open": 2559.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-26 00:00:00",
+        "volume": 68277139
+    },
+    {
+        "close": 2420.1,
+        "high": 2549,
+        "low": 2300.7,
+        "open": 2507.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-27 00:00:00",
+        "volume": 111425810
+    },
+    {
+        "close": 2541.6,
+        "high": 2549,
+        "low": 2257.7,
+        "open": 2420.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-28 00:00:00",
+        "volume": 104465173
+    },
+    {
+        "close": 2558.3,
+        "high": 2594.5,
+        "low": 2450,
+        "open": 2541.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-29 00:00:00",
+        "volume": 58060738
+    },
+    {
+        "close": 2532.7,
+        "high": 2600.2,
+        "low": 2505.7,
+        "open": 2558.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-06-30 00:00:00",
+        "volume": 45231684
+    },
+    {
+        "close": 2453.4,
+        "high": 2556.4,
+        "low": 2443.5,
+        "open": 2532.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-01 00:00:00",
+        "volume": 38809769
+    },
+    {
+        "close": 2422.7,
+        "high": 2497.4,
+        "low": 2390,
+        "open": 2453.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-02 00:00:00",
+        "volume": 47392832
+    },
+    {
+        "close": 2510.2,
+        "high": 2533.9,
+        "low": 2371.3,
+        "open": 2422.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-03 00:00:00",
+        "volume": 41945870
+    },
+    {
+        "close": 2540.5,
+        "high": 2599.7,
+        "low": 2478.4,
+        "open": 2510.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-04 00:00:00",
+        "volume": 43143932
+    },
+    {
+        "close": 2602.2,
+        "high": 2638.9,
+        "low": 2540.1,
+        "open": 2540.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-05 00:00:00",
+        "volume": 40891823
+    },
+    {
+        "close": 2603.2,
+        "high": 2626.3,
+        "low": 2532.3,
+        "open": 2602.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-06 00:00:00",
+        "volume": 31768789
+    },
+    {
+        "close": 2603.8,
+        "high": 2618.7,
+        "low": 2563,
+        "open": 2603.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-07 00:00:00",
+        "volume": 21108431
+    },
+    {
+        "close": 2505.1,
+        "high": 2608,
+        "low": 2473,
+        "open": 2603.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-08 00:00:00",
+        "volume": 47647945
+    },
+    {
+        "close": 2554.4,
+        "high": 2558,
+        "low": 2467.4,
+        "open": 2505.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-09 00:00:00",
+        "volume": 36015348
+    },
+    {
+        "close": 2506.5,
+        "high": 2565.7,
+        "low": 2498.3,
+        "open": 2554.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-10 00:00:00",
+        "volume": 26976481
+    },
+    {
+        "close": 2335.2,
+        "high": 2521.9,
+        "low": 2271,
+        "open": 2506.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-11 00:00:00",
+        "volume": 94816230
+    },
+    {
+        "close": 2304.8,
+        "high": 2397.8,
+        "low": 2241.9,
+        "open": 2335.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-12 00:00:00",
+        "volume": 81063826
+    },
+    {
+        "close": 2386.8,
+        "high": 2408.4,
+        "low": 2231.8,
+        "open": 2304.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-13 00:00:00",
+        "volume": 79874625
+    },
+    {
+        "close": 2338.1,
+        "high": 2421,
+        "low": 2310.6,
+        "open": 2386.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-14 00:00:00",
+        "volume": 42566065
+    },
+    {
+        "close": 2208.4,
+        "high": 2354.8,
+        "low": 2135.5,
+        "open": 2338.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-15 00:00:00",
+        "volume": 85136385
+    },
+    {
+        "close": 1974,
+        "high": 2221.5,
+        "low": 1970.5,
+        "open": 2208.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-16 00:00:00",
+        "volume": 136364277
+    },
+    {
+        "close": 1924.5,
+        "high": 2047.2,
+        "low": 1810,
+        "open": 1974,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-17 00:00:00",
+        "volume": 155681818
+    },
+    {
+        "close": 2223.5,
+        "high": 2226.4,
+        "low": 1910,
+        "open": 1924.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-18 00:00:00",
+        "volume": 121549945
+    },
+    {
+        "close": 2303,
+        "high": 2387,
+        "low": 2150,
+        "open": 2223.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-19 00:00:00",
+        "volume": 156111878
+    },
+    {
+        "close": 2262.1,
+        "high": 2398.9,
+        "low": 2220,
+        "open": 2303,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-20 00:00:00",
+        "volume": 121950935
+    },
+    {
+        "close": 2883.1,
+        "high": 2959.2,
+        "low": 2261,
+        "open": 2262.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-21 00:00:00",
+        "volume": 272443483
+    },
+    {
+        "close": 2666,
+        "high": 2888,
+        "low": 2610,
+        "open": 2883.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-22 00:00:00",
+        "volume": 200071318
+    },
+    {
+        "close": 2833.2,
+        "high": 2906,
+        "low": 2644.2,
+        "open": 2666,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-23 00:00:00",
+        "volume": 157951704
+    },
+    {
+        "close": 2752.8,
+        "high": 2866.3,
+        "low": 2650,
+        "open": 2833.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-24 00:00:00",
+        "volume": 140948241
+    },
+    {
+        "close": 2764.4,
+        "high": 2817,
+        "low": 2704.3,
+        "open": 2752.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-25 00:00:00",
+        "volume": 91497864
+    },
+    {
+        "close": 2559.6,
+        "high": 2788.4,
+        "low": 2438.4,
+        "open": 2764.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-26 00:00:00",
+        "volume": 229714016
+    },
+    {
+        "close": 2530.2,
+        "high": 2609.9,
+        "low": 2391.2,
+        "open": 2559.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-27 00:00:00",
+        "volume": 156631568
+    },
+    {
+        "close": 2662.3,
+        "high": 2685.1,
+        "low": 2512.6,
+        "open": 2530.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-28 00:00:00",
+        "volume": 104885818
+    },
+    {
+        "close": 2782,
+        "high": 2828,
+        "low": 2654.5,
+        "open": 2662.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-29 00:00:00",
+        "volume": 142053965
+    },
+    {
+        "close": 2692.5,
+        "high": 2784.7,
+        "low": 2654.9,
+        "open": 2782,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-30 00:00:00",
+        "volume": 111150377
+    },
+    {
+        "close": 2730.4,
+        "high": 2747,
+        "low": 2556.2,
+        "open": 2692.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-07-31 00:00:00",
+        "volume": 86265869
+    },
+    {
+        "close": 2851.1,
+        "high": 2891,
+        "low": 2684.7,
+        "open": 2730.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-01 00:00:00",
+        "volume": 101346941
+    },
+    {
+        "close": 2730.1,
+        "high": 2913.1,
+        "low": 2601.2,
+        "open": 2851.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-02 00:00:00",
+        "volume": 173819218
+    },
+    {
+        "close": 2706.9,
+        "high": 2766.6,
+        "low": 2633.7,
+        "open": 2730.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-03 00:00:00",
+        "volume": 81464944
+    },
+    {
+        "close": 2787.7,
+        "high": 2805.8,
+        "low": 2699.3,
+        "open": 2706.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-04 00:00:00",
+        "volume": 51230643
+    },
+    {
+        "close": 2854.9,
+        "high": 2875.1,
+        "low": 2760.6,
+        "open": 2787.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-05 00:00:00",
+        "volume": 73184795
+    },
+    {
+        "close": 3257.8,
+        "high": 3341.6,
+        "low": 2848.2,
+        "open": 2854.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-06 00:00:00",
+        "volume": 249140638
+    },
+    {
+        "close": 3221.8,
+        "high": 3305,
+        "low": 3142.8,
+        "open": 3257.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-07 00:00:00",
+        "volume": 134273847
+    },
+    {
+        "close": 3395,
+        "high": 3442,
+        "low": 3180.7,
+        "open": 3221.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-08 00:00:00",
+        "volume": 135545546
+    },
+    {
+        "close": 3422.1,
+        "high": 3486.7,
+        "low": 3328,
+        "open": 3395,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-09 00:00:00",
+        "volume": 180632515
+    },
+    {
+        "close": 3341.2,
+        "high": 3430.2,
+        "low": 3220,
+        "open": 3422.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-10 00:00:00",
+        "volume": 159826371
+    },
+    {
+        "close": 3412.2,
+        "high": 3443.9,
+        "low": 3307.5,
+        "open": 3341.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-11 00:00:00",
+        "volume": 89052947
+    },
+    {
+        "close": 3651.8,
+        "high": 3718.6,
+        "low": 3393.4,
+        "open": 3412.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-12 00:00:00",
+        "volume": 145203168
+    },
+    {
+        "close": 3874.4,
+        "high": 3987.6,
+        "low": 3603.7,
+        "open": 3651.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-13 00:00:00",
+        "volume": 264461491
+    },
+    {
+        "close": 4077.9,
+        "high": 4215.1,
+        "low": 3842,
+        "open": 3874.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-14 00:00:00",
+        "volume": 375155723
+    },
+    {
+        "close": 4328.5,
+        "high": 4353,
+        "low": 3960.3,
+        "open": 4077.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-15 00:00:00",
+        "volume": 269279921
+    },
+    {
+        "close": 4158.1,
+        "high": 4440,
+        "low": 3834.6,
+        "open": 4328.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-16 00:00:00",
+        "volume": 430371309
+    },
+    {
+        "close": 4402.3,
+        "high": 4415,
+        "low": 3917,
+        "open": 4158.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-17 00:00:00",
+        "volume": 274394106
+    },
+    {
+        "close": 4278.3,
+        "high": 4498,
+        "low": 4170,
+        "open": 4402.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-18 00:00:00",
+        "volume": 316217204
+    },
+    {
+        "close": 4101.1,
+        "high": 4368.3,
+        "low": 3941.9,
+        "open": 4278.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-19 00:00:00",
+        "volume": 254893872
+    },
+    {
+        "close": 4131.1,
+        "high": 4183,
+        "low": 3933,
+        "open": 4101.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-20 00:00:00",
+        "volume": 195584503
+    },
+    {
+        "close": 4049.4,
+        "high": 4164,
+        "low": 4014.5,
+        "open": 4131.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-21 00:00:00",
+        "volume": 134919363
+    },
+    {
+        "close": 3998.1,
+        "high": 4087.4,
+        "low": 3951,
+        "open": 4049.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-22 00:00:00",
+        "volume": 120132287
+    },
+    {
+        "close": 4101.6,
+        "high": 4187.3,
+        "low": 3550,
+        "open": 3998.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-23 00:00:00",
+        "volume": 278792647
+    },
+    {
+        "close": 4138,
+        "high": 4259.9,
+        "low": 4050,
+        "open": 4101.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-24 00:00:00",
+        "volume": 157594985
+    },
+    {
+        "close": 4318.6,
+        "high": 4368,
+        "low": 4085.8,
+        "open": 4138,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-25 00:00:00",
+        "volume": 119190593
+    },
+    {
+        "close": 4357.4,
+        "high": 4472.6,
+        "low": 4256,
+        "open": 4318.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-26 00:00:00",
+        "volume": 147356392
+    },
+    {
+        "close": 4334.9,
+        "high": 4371.3,
+        "low": 4234.1,
+        "open": 4357.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-27 00:00:00",
+        "volume": 96825214
+    },
+    {
+        "close": 4341.9,
+        "high": 4414,
+        "low": 4300.4,
+        "open": 4334.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-28 00:00:00",
+        "volume": 71225308
+    },
+    {
+        "close": 4390.8,
+        "high": 4413.3,
+        "low": 4169,
+        "open": 4341.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-29 00:00:00",
+        "volume": 123025429
+    },
+    {
+        "close": 4591.8,
+        "high": 4709.9,
+        "low": 4333.5,
+        "open": 4390.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-30 00:00:00",
+        "volume": 175035270
+    },
+    {
+        "close": 4569.2,
+        "high": 4666.5,
+        "low": 4473.8,
+        "open": 4591.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-08-31 00:00:00",
+        "volume": 116996988
+    },
+    {
+        "close": 4723.9,
+        "high": 4769,
+        "low": 4569.1,
+        "open": 4569.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-01 00:00:00",
+        "volume": 140130707
+    },
+    {
+        "close": 4944.5,
+        "high": 4944.5,
+        "low": 4678,
+        "open": 4723.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-02 00:00:00",
+        "volume": 183655347
+    },
+    {
+        "close": 4633.1,
+        "high": 5013.3,
+        "low": 4487.3,
+        "open": 4944.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-03 00:00:00",
+        "volume": 407688486
+    },
+    {
+        "close": 4624.2,
+        "high": 4742.2,
+        "low": 4412.1,
+        "open": 4633.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-04 00:00:00",
+        "volume": 223677242
+    },
+    {
+        "close": 4339.9,
+        "high": 4630,
+        "low": 4161.4,
+        "open": 4624.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-05 00:00:00",
+        "volume": 388478483
+    },
+    {
+        "close": 4427,
+        "high": 4505,
+        "low": 4061.3,
+        "open": 4339.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-06 00:00:00",
+        "volume": 307926743
+    },
+    {
+        "close": 4608.2,
+        "high": 4662.9,
+        "low": 4410.7,
+        "open": 4427,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-07 00:00:00",
+        "volume": 184852439
+    },
+    {
+        "close": 4613.9,
+        "high": 4678,
+        "low": 4476.1,
+        "open": 4608.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-08 00:00:00",
+        "volume": 152792191
+    },
+    {
+        "close": 4317.9,
+        "high": 4689.7,
+        "low": 4116,
+        "open": 4613.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-09 00:00:00",
+        "volume": 417833219
+    },
+    {
+        "close": 4325.8,
+        "high": 4416.1,
+        "low": 4185.1,
+        "open": 4317.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-10 00:00:00",
+        "volume": 207889826
+    },
+    {
+        "close": 4239.5,
+        "high": 4344,
+        "low": 4012.6,
+        "open": 4325.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-11 00:00:00",
+        "volume": 239857224
+    },
+    {
+        "close": 4207,
+        "high": 4380,
+        "low": 4105.4,
+        "open": 4239.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-12 00:00:00",
+        "volume": 187757199
+    },
+    {
+        "close": 4148.8,
+        "high": 4380,
+        "low": 4055,
+        "open": 4207,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-13 00:00:00",
+        "volume": 223164080
+    },
+    {
+        "close": 3856.6,
+        "high": 4152.1,
+        "low": 3722.9,
+        "open": 4148.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-14 00:00:00",
+        "volume": 383908452
+    },
+    {
+        "close": 3222.9,
+        "high": 3920.7,
+        "low": 3200.1,
+        "open": 3856.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-15 00:00:00",
+        "volume": 590184470
+    },
+    {
+        "close": 3706.1,
+        "high": 3841.1,
+        "low": 2939.7,
+        "open": 3222.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-16 00:00:00",
+        "volume": 792609515
+    },
+    {
+        "close": 3697,
+        "high": 3900,
+        "low": 3531.7,
+        "open": 3706.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-17 00:00:00",
+        "volume": 325600157
+    },
+    {
+        "close": 3687.1,
+        "high": 3810,
+        "low": 3470.8,
+        "open": 3697,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-18 00:00:00",
+        "volume": 238266454
+    },
+    {
+        "close": 4110.2,
+        "high": 4149,
+        "low": 3687,
+        "open": 3687.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-19 00:00:00",
+        "volume": 328976767
+    },
+    {
+        "close": 3883.8,
+        "high": 4130,
+        "low": 3838.4,
+        "open": 4110.2,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-20 00:00:00",
+        "volume": 352115516
+    },
+    {
+        "close": 3867.1,
+        "high": 4060,
+        "low": 3825,
+        "open": 3883.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-21 00:00:00",
+        "volume": 263081252
+    },
+    {
+        "close": 3611,
+        "high": 3903.5,
+        "low": 3571.4,
+        "open": 3867.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-22 00:00:00",
+        "volume": 370202112
+    },
+    {
+        "close": 3603.5,
+        "high": 3765,
+        "low": 3515,
+        "open": 3611,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-23 00:00:00",
+        "volume": 330019159
+    },
+    {
+        "close": 3778.9,
+        "high": 3826.5,
+        "low": 3560,
+        "open": 3603.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-24 00:00:00",
+        "volume": 221180063
+    },
+    {
+        "close": 3660.4,
+        "high": 3781.9,
+        "low": 3595.5,
+        "open": 3778.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-25 00:00:00",
+        "volume": 187902872
+    },
+    {
+        "close": 3925.5,
+        "high": 3980,
+        "low": 3656,
+        "open": 3660.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-26 00:00:00",
+        "volume": 271819358
+    },
+    {
+        "close": 3874,
+        "high": 3981.3,
+        "low": 3850,
+        "open": 3925.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-27 00:00:00",
+        "volume": 225261474
+    },
+    {
+        "close": 4202.5,
+        "high": 4220,
+        "low": 3866.5,
+        "open": 3874,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-28 00:00:00",
+        "volume": 308069192
+    },
+    {
+        "close": 4187.9,
+        "high": 4276.7,
+        "low": 4125,
+        "open": 4202.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-29 00:00:00",
+        "volume": 310866631
+    },
+    {
+        "close": 4164.8,
+        "high": 4240,
+        "low": 4031.1,
+        "open": 4187.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-09-30 00:00:00",
+        "volume": 394154232
+    },
+    {
+        "close": 4327.3,
+        "high": 4355.7,
+        "low": 4155,
+        "open": 4164.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-01 00:00:00",
+        "volume": 281256398
+    },
+    {
+        "close": 4382.8,
+        "high": 4384.1,
+        "low": 4251.1,
+        "open": 4327.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-02 00:00:00",
+        "volume": 260400287
+    },
+    {
+        "close": 4388,
+        "high": 4458.8,
+        "low": 4355.5,
+        "open": 4382.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-03 00:00:00",
+        "volume": 322064731
+    },
+    {
+        "close": 4318.3,
+        "high": 4435,
+        "low": 4224.1,
+        "open": 4388,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-04 00:00:00",
+        "volume": 349047436
+    },
+    {
+        "close": 4213.3,
+        "high": 4339,
+        "low": 4162,
+        "open": 4318.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-05 00:00:00",
+        "volume": 251445083
+    },
+    {
+        "close": 4311.4,
+        "high": 4377.5,
+        "low": 4134.8,
+        "open": 4213.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-06 00:00:00",
+        "volume": 319137500
+    },
+    {
+        "close": 4372.1,
+        "high": 4430,
+        "low": 4291.7,
+        "open": 4311.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-07 00:00:00",
+        "volume": 252070113
+    },
+    {
+        "close": 4445.3,
+        "high": 4484,
+        "low": 4307,
+        "open": 4372.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-08 00:00:00",
+        "volume": 175049890
+    },
+    {
+        "close": 4591,
+        "high": 4619.6,
+        "low": 4429.5,
+        "open": 4445.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-09 00:00:00",
+        "volume": 297011953
+    },
+    {
+        "close": 4798.8,
+        "high": 4914.5,
+        "low": 4546.4,
+        "open": 4591,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-10 00:00:00",
+        "volume": 576352442
+    },
+    {
+        "close": 4771.7,
+        "high": 4943.7,
+        "low": 4698.6,
+        "open": 4798.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-11 00:00:00",
+        "volume": 525518662
+    },
+    {
+        "close": 4822,
+        "high": 4887,
+        "low": 4706,
+        "open": 4771.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-12 00:00:00",
+        "volume": 368758715
+    },
+    {
+        "close": 5463.6,
+        "high": 5467.5,
+        "low": 4800.6,
+        "open": 4822,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-13 00:00:00",
+        "volume": 883212184
+    },
+    {
+        "close": 5667.3,
+        "high": 5980,
+        "low": 5394.9,
+        "open": 5463.6,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-14 00:00:00",
+        "volume": 1336720748
+    },
+    {
+        "close": 5872.1,
+        "high": 5890,
+        "low": 5588.7,
+        "open": 5667.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-15 00:00:00",
+        "volume": 590927424
+    },
+    {
+        "close": 5711.1,
+        "high": 5904.6,
+        "low": 5405,
+        "open": 5872.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-16 00:00:00",
+        "volume": 782169799
+    },
+    {
+        "close": 5795,
+        "high": 5876.2,
+        "low": 5531.1,
+        "open": 5711.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-17 00:00:00",
+        "volume": 512256122
+    },
+    {
+        "close": 5600,
+        "high": 5819.9,
+        "low": 5510,
+        "open": 5795,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-18 00:00:00",
+        "volume": 568041073
+    },
+    {
+        "close": 5590.8,
+        "high": 5647.9,
+        "low": 5100,
+        "open": 5600,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-19 00:00:00",
+        "volume": 1067907994
+    },
+    {
+        "close": 5700.8,
+        "high": 5757.9,
+        "low": 5527,
+        "open": 5590.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-20 00:00:00",
+        "volume": 655240545
+    },
+    {
+        "close": 6017.5,
+        "high": 6168.9,
+        "low": 5602,
+        "open": 5700.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-21 00:00:00",
+        "volume": 912558192
+    },
+    {
+        "close": 6018.7,
+        "high": 6220,
+        "low": 5875,
+        "open": 6017.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-22 00:00:00",
+        "volume": 854248299
+    },
+    {
+        "close": 5986,
+        "high": 6080.2,
+        "low": 5720,
+        "open": 6018.7,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-23 00:00:00",
+        "volume": 847520369
+    },
+    {
+        "close": 5853.9,
+        "high": 6095.2,
+        "low": 5638.7,
+        "open": 5986,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-24 00:00:00",
+        "volume": 1013064819
+    },
+    {
+        "close": 5517.4,
+        "high": 5853.9,
+        "low": 5454,
+        "open": 5853.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-25 00:00:00",
+        "volume": 950744064
+    },
+    {
+        "close": 5732,
+        "high": 5758.9,
+        "low": 5366,
+        "open": 5517.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-26 00:00:00",
+        "volume": 710909859
+    },
+    {
+        "close": 5888.4,
+        "high": 6008,
+        "low": 5669.6,
+        "open": 5732,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-27 00:00:00",
+        "volume": 773138211
+    },
+    {
+        "close": 5769.3,
+        "high": 6013,
+        "low": 5678,
+        "open": 5888.4,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-28 00:00:00",
+        "volume": 632848491
+    },
+    {
+        "close": 5727.1,
+        "high": 5878,
+        "low": 5652.7,
+        "open": 5769.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-29 00:00:00",
+        "volume": 444659626
+    },
+    {
+        "close": 6159.3,
+        "high": 6366,
+        "low": 5687.5,
+        "open": 5727.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-30 00:00:00",
+        "volume": 756109936
+    },
+    {
+        "close": 6134.9,
+        "high": 6221.8,
+        "low": 6010.8,
+        "open": 6159.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-10-31 00:00:00",
+        "volume": 579186740
+    },
+    {
+        "close": 6440.1,
+        "high": 6489,
+        "low": 6088.4,
+        "open": 6134.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-01 00:00:00",
+        "volume": 757390412
+    },
+    {
+        "close": 6749.5,
+        "high": 6750,
+        "low": 6360,
+        "open": 6440.1,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-02 00:00:00",
+        "volume": 1002702139
+    },
+    {
+        "close": 7025.8,
+        "high": 7437.7,
+        "low": 6700.3,
+        "open": 6749.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-03 00:00:00",
+        "volume": 1947637864
+    },
+    {
+        "close": 7146.5,
+        "high": 7495,
+        "low": 6920,
+        "open": 7025.8,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-04 00:00:00",
+        "volume": 1321777619
+    },
+    {
+        "close": 7393.9,
+        "high": 7596.1,
+        "low": 6983.6,
+        "open": 7146.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-05 00:00:00",
+        "volume": 1077283262
+    },
+    {
+        "close": 7378.3,
+        "high": 7621.7,
+        "low": 7280.5,
+        "open": 7393.9,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-06 00:00:00",
+        "volume": 1029792323
+    },
+    {
+        "close": 6960,
+        "high": 7436,
+        "low": 6900,
+        "open": 7378.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-07 00:00:00",
+        "volume": 1477643661
+    },
+    {
+        "close": 7121.3,
+        "high": 7215.5,
+        "low": 6957,
+        "open": 6960,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-08 00:00:00",
+        "volume": 1060689403
+    },
+    {
+        "close": 7465,
+        "high": 7950,
+        "low": 7013,
+        "open": 7121.3,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-09 00:00:00",
+        "volume": 1939100851
+    },
+    {
+        "close": 7150.5,
+        "high": 7490.2,
+        "low": 7030,
+        "open": 7465,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-10 00:00:00",
+        "volume": 1021866714
+    },
+    {
+        "close": 6564,
+        "high": 7362.5,
+        "low": 6431,
+        "open": 7150.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-11 00:00:00",
+        "volume": 1784422368
+    },
+    {
+        "close": 6345.5,
+        "high": 6818,
+        "low": 6220.5,
+        "open": 6564,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-12 00:00:00",
+        "volume": 1335894178
+    },
+    {
+        "close": 5846.5,
+        "high": 6480,
+        "low": 5464,
+        "open": 6345.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-13 00:00:00",
+        "volume": 2217483525
+    },
+    {
+        "close": 6558,
+        "high": 6720,
+        "low": 5800.5,
+        "open": 5846.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-14 00:00:00",
+        "volume": 1439111574
+    },
+    {
+        "close": 6632.5,
+        "high": 6777,
+        "low": 6410,
+        "open": 6558,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-15 00:00:00",
+        "volume": 783289296
+    },
+    {
+        "close": 7310.5,
+        "high": 7367,
+        "low": 6624.5,
+        "open": 6632.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-16 00:00:00",
+        "volume": 1271137892
+    },
+    {
+        "close": 7867,
+        "high": 8061,
+        "low": 7131,
+        "open": 7310.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-17 00:00:00",
+        "volume": 1352874206
+    },
+    {
+        "close": 7674,
+        "high": 8059,
+        "low": 7550,
+        "open": 7867,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-18 00:00:00",
+        "volume": 1575977218
+    },
+    {
+        "close": 7805.5,
+        "high": 7893.5,
+        "low": 7425,
+        "open": 7674,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-19 00:00:00",
+        "volume": 857056815
+    },
+    {
+        "close": 8062,
+        "high": 8152.5,
+        "low": 7680,
+        "open": 7805.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-20 00:00:00",
+        "volume": 800402418
+    },
+    {
+        "close": 8243,
+        "high": 8305,
+        "low": 7929.5,
+        "open": 8062,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-21 00:00:00",
+        "volume": 863222728
+    },
+    {
+        "close": 8098.5,
+        "high": 8393.5,
+        "low": 7407.5,
+        "open": 8243,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-22 00:00:00",
+        "volume": 1670787515
+    },
+    {
+        "close": 8219,
+        "high": 8319,
+        "low": 8050.5,
+        "open": 8098.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-23 00:00:00",
+        "volume": 853748162
+    },
+    {
+        "close": 7988.5,
+        "high": 8275.5,
+        "low": 7975.5,
+        "open": 8219,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-24 00:00:00",
+        "volume": 682535318
+    },
+    {
+        "close": 8207.5,
+        "high": 8386.5,
+        "low": 7832,
+        "open": 7988.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-25 00:00:00",
+        "volume": 976560999
+    },
+    {
+        "close": 8760,
+        "high": 8787,
+        "low": 8140,
+        "open": 8207.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-26 00:00:00",
+        "volume": 900440645
+    },
+    {
+        "close": 9339,
+        "high": 9586,
+        "low": 8734.5,
+        "open": 8760,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-27 00:00:00",
+        "volume": 1807968585
+    },
+    {
+        "close": 9751.5,
+        "high": 9796,
+        "low": 9339,
+        "open": 9339,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-28 00:00:00",
+        "volume": 1572797374
+    },
+    {
+        "close": 9938,
+        "high": 9992.5,
+        "low": 9607.5,
+        "open": 9751.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-29 00:00:00",
+        "volume": 1236953894
+    },
+    {
+        "close": 9869.5,
+        "high": 11489,
+        "low": 8830,
+        "open": 9938,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-11-30 00:00:00",
+        "volume": 3490469446
+    },
+    {
+        "close": 9960,
+        "high": 10750.5,
+        "low": 8938.5,
+        "open": 9869.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-01 00:00:00",
+        "volume": 2291590521
+    },
+    {
+        "close": 10879.5,
+        "high": 10988,
+        "low": 9347.5,
+        "open": 9960,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-02 00:00:00",
+        "volume": 1948017516
+    },
+    {
+        "close": 10910.5,
+        "high": 11262.5,
+        "low": 10676.5,
+        "open": 10879.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-03 00:00:00",
+        "volume": 1389465247
+    },
+    {
+        "close": 11210,
+        "high": 11896,
+        "low": 10402,
+        "open": 10910.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-04 00:00:00",
+        "volume": 1662517142
+    },
+    {
+        "close": 11682,
+        "high": 11685.5,
+        "low": 10856,
+        "open": 11210,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-05 00:00:00",
+        "volume": 1539285527
+    },
+    {
+        "close": 11726,
+        "high": 11961,
+        "low": 11451,
+        "open": 11682,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-06 00:00:00",
+        "volume": 1165153246
+    },
+    {
+        "close": 13682,
+        "high": 13890.5,
+        "low": 11724,
+        "open": 11726,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-07 00:00:00",
+        "volume": 2181553335
+    },
+    {
+        "close": 17427,
+        "high": 17750,
+        "low": 13323.5,
+        "open": 13682,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-08 00:00:00",
+        "volume": 3745748309
+    },
+    {
+        "close": 16272,
+        "high": 17719.5,
+        "low": 13889.5,
+        "open": 17427,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-09 00:00:00",
+        "volume": 2976200225
+    },
+    {
+        "close": 14984.5,
+        "high": 16600,
+        "low": 13225,
+        "open": 16272,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-10 00:00:00",
+        "volume": 1858006738
+    },
+    {
+        "close": 15143,
+        "high": 16149,
+        "low": 13218,
+        "open": 14984.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-11 00:00:00",
+        "volume": 2334949262
+    },
+    {
+        "close": 17009,
+        "high": 17742.5,
+        "low": 15102,
+        "open": 15143,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-12 00:00:00",
+        "volume": 1661016866
+    },
+    {
+        "close": 17236,
+        "high": 18067,
+        "low": 16200,
+        "open": 17009,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-13 00:00:00",
+        "volume": 1618633765
+    },
+    {
+        "close": 16436.5,
+        "high": 17561,
+        "low": 15855,
+        "open": 17236,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-14 00:00:00",
+        "volume": 1740697543
+    },
+    {
+        "close": 16651,
+        "high": 17145,
+        "low": 16103,
+        "open": 16436.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-15 00:00:00",
+        "volume": 1046084323
+    },
+    {
+        "close": 17700,
+        "high": 18296.5,
+        "low": 16615.5,
+        "open": 16651,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-16 00:00:00",
+        "volume": 1508093617
+    },
+    {
+        "close": 19547.5,
+        "high": 19840,
+        "low": 17476.5,
+        "open": 17700,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-17 00:00:00",
+        "volume": 1425811474
+    },
+    {
+        "close": 19287.5,
+        "high": 20093,
+        "low": 18737.5,
+        "open": 19547.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-18 00:00:00",
+        "volume": 1816963445
+    },
+    {
+        "close": 19127,
+        "high": 19384,
+        "low": 18032.5,
+        "open": 19287.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-19 00:00:00",
+        "volume": 1806717297
+    },
+    {
+        "close": 17663,
+        "high": 19346,
+        "low": 16804.5,
+        "open": 19127,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-20 00:00:00",
+        "volume": 1864278438
+    },
+    {
+        "close": 16463,
+        "high": 17943.5,
+        "low": 15080,
+        "open": 17663,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-21 00:00:00",
+        "volume": 2464171914
+    },
+    {
+        "close": 15775,
+        "high": 17468.5,
+        "low": 15050,
+        "open": 16463,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-22 00:00:00",
+        "volume": 1653592333
+    },
+    {
+        "close": 13763.5,
+        "high": 15905,
+        "low": 10900,
+        "open": 15775,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-23 00:00:00",
+        "volume": 3487515797
+    },
+    {
+        "close": 14719.5,
+        "high": 15928,
+        "low": 13462,
+        "open": 13763.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-24 00:00:00",
+        "volume": 1477899382
+    },
+    {
+        "close": 14227.5,
+        "high": 14788.5,
+        "low": 12521.5,
+        "open": 14719.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-25 00:00:00",
+        "volume": 1662515600
+    },
+    {
+        "close": 13989.5,
+        "high": 14710.5,
+        "low": 13232,
+        "open": 14227.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-26 00:00:00",
+        "volume": 996248193
+    },
+    {
+        "close": 15833.5,
+        "high": 16384.5,
+        "low": 13900,
+        "open": 13989.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-27 00:00:00",
+        "volume": 1375059652
+    },
+    {
+        "close": 15380.5,
+        "high": 16700,
+        "low": 14497.5,
+        "open": 15833.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-28 00:00:00",
+        "volume": 1281235547
+    },
+    {
+        "close": 14480,
+        "high": 15535.5,
+        "low": 13450.5,
+        "open": 15380.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-29 00:00:00",
+        "volume": 1326750967
+    },
+    {
+        "close": 14539.5,
+        "high": 15175,
+        "low": 13905,
+        "open": 14480,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-30 00:00:00",
+        "volume": 876425910
+    },
+    {
+        "close": 12673.5,
+        "high": 14601.5,
+        "low": 11973,
+        "open": 14539.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2017-12-31 00:00:00",
+        "volume": 1516089382
+    },
+    {
+        "close": 13873,
+        "high": 14350,
+        "low": 12468.5,
+        "open": 12673.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-01 00:00:00",
+        "volume": 814405650
+    },
+    {
+        "close": 13477,
+        "high": 14011.5,
+        "low": 12772,
+        "open": 13873,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-02 00:00:00",
+        "volume": 638958746
+    },
+    {
+        "close": 14786.5,
+        "high": 15269,
+        "low": 12900,
+        "open": 13477,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-03 00:00:00",
+        "volume": 904159652
+    },
+    {
+        "close": 15157,
+        "high": 15524,
+        "low": 14555,
+        "open": 14786.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-04 00:00:00",
+        "volume": 812686550
+    },
+    {
+        "close": 15186,
+        "high": 15500,
+        "low": 14150,
+        "open": 15157,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-05 00:00:00",
+        "volume": 814142088
+    },
+    {
+        "close": 16891,
+        "high": 17088,
+        "low": 14805,
+        "open": 15186,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-06 00:00:00",
+        "volume": 1010611092
+    },
+    {
+        "close": 17210,
+        "high": 17422,
+        "low": 16235,
+        "open": 16891,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-07 00:00:00",
+        "volume": 764303511
+    },
+    {
+        "close": 16224.5,
+        "high": 17213,
+        "low": 15770.5,
+        "open": 17210,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-08 00:00:00",
+        "volume": 863341710
+    },
+    {
+        "close": 14952.5,
+        "high": 16329,
+        "low": 13800,
+        "open": 16224.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-09 00:00:00",
+        "volume": 1473520709
+    },
+    {
+        "close": 14465,
+        "high": 15375,
+        "low": 14183,
+        "open": 14952.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-10 00:00:00",
+        "volume": 999024212
+    },
+    {
+        "close": 14963.5,
+        "high": 15012.5,
+        "low": 13426,
+        "open": 14465,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-11 00:00:00",
+        "volume": 1154658078
+    },
+    {
+        "close": 13287.5,
+        "high": 15033.5,
+        "low": 12703.5,
+        "open": 14963.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-12 00:00:00",
+        "volume": 1514629882
+    },
+    {
+        "close": 13874.5,
+        "high": 14197,
+        "low": 12818.5,
+        "open": 13287.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-13 00:00:00",
+        "volume": 886264793
+    },
+    {
+        "close": 14209,
+        "high": 14600,
+        "low": 13810,
+        "open": 13874.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-14 00:00:00",
+        "volume": 588530993
+    },
+    {
+        "close": 13645,
+        "high": 14364,
+        "low": 13049,
+        "open": 14209,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-15 00:00:00",
+        "volume": 806932736
+    },
+    {
+        "close": 13621,
+        "high": 14374.5,
+        "low": 13400,
+        "open": 13645,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-16 00:00:00",
+        "volume": 747398582
+    },
+    {
+        "close": 11330,
+        "high": 13619,
+        "low": 10100,
+        "open": 13621,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-17 00:00:00",
+        "volume": 2755983315
+    },
+    {
+        "close": 11210,
+        "high": 11799,
+        "low": 9209,
+        "open": 11330,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-18 00:00:00",
+        "volume": 2266854171
+    },
+    {
+        "close": 11252,
+        "high": 12183,
+        "low": 10615.5,
+        "open": 11210,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-19 00:00:00",
+        "volume": 1431204983
+    },
+    {
+        "close": 11546.5,
+        "high": 12078,
+        "low": 10956.5,
+        "open": 11252,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-20 00:00:00",
+        "volume": 989529029
+    },
+    {
+        "close": 12746.5,
+        "high": 13008,
+        "low": 11490,
+        "open": 11546.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-21 00:00:00",
+        "volume": 930649076
+    },
+    {
+        "close": 11560,
+        "high": 12757,
+        "low": 11088.5,
+        "open": 12746.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-22 00:00:00",
+        "volume": 1143587814
+    },
+    {
+        "close": 10792.5,
+        "high": 11855,
+        "low": 10020,
+        "open": 11560,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-23 00:00:00",
+        "volume": 1486837759
+    },
+    {
+        "close": 10830,
+        "high": 11437,
+        "low": 9874,
+        "open": 10792.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-24 00:00:00",
+        "volume": 1449900102
+    },
+    {
+        "close": 11394.5,
+        "high": 11499,
+        "low": 10437,
+        "open": 10830,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-25 00:00:00",
+        "volume": 1131616118
+    },
+    {
+        "close": 11117,
+        "high": 11750,
+        "low": 10840.5,
+        "open": 11394.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-26 00:00:00",
+        "volume": 981325170
+    },
+    {
+        "close": 11110,
+        "high": 11653,
+        "low": 10230,
+        "open": 11117,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-27 00:00:00",
+        "volume": 1452834482
+    },
+    {
+        "close": 11398,
+        "high": 11631,
+        "low": 10777.5,
+        "open": 11110,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-28 00:00:00",
+        "volume": 1009595524
+    },
+    {
+        "close": 11631.5,
+        "high": 11970,
+        "low": 11350,
+        "open": 11398,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-29 00:00:00",
+        "volume": 752035913
+    },
+    {
+        "close": 11127,
+        "high": 11768,
+        "low": 10865,
+        "open": 11631.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-30 00:00:00",
+        "volume": 922831552
+    },
+    {
+        "close": 9999,
+        "high": 11217.5,
+        "low": 9616.5,
+        "open": 11127,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-01-31 00:00:00",
+        "volume": 1551256047
+    },
+    {
+        "close": 10132,
+        "high": 10332.5,
+        "low": 9500,
+        "open": 9999,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-01 00:00:00",
+        "volume": 1160207807
+    },
+    {
+        "close": 9008,
+        "high": 10199,
+        "low": 8476,
+        "open": 10132,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-02 00:00:00",
+        "volume": 1778962963
+    },
+    {
+        "close": 8807.5,
+        "high": 9054.5,
+        "low": 7610,
+        "open": 9008,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-03 00:00:00",
+        "volume": 1969893239
+    },
+    {
+        "close": 9226.5,
+        "high": 9499,
+        "low": 8105,
+        "open": 8807.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-04 00:00:00",
+        "volume": 1176826654
+    },
+    {
+        "close": 8151,
+        "high": 9395,
+        "low": 7791,
+        "open": 9226.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-05 00:00:00",
+        "volume": 1436075356
+    },
+    {
+        "close": 6889.5,
+        "high": 8344.5,
+        "low": 6543,
+        "open": 8151,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-06 00:00:00",
+        "volume": 2088881027
+    },
+    {
+        "close": 7674.5,
+        "high": 7930,
+        "low": 5855,
+        "open": 6889.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-07 00:00:00",
+        "volume": 2383969711
+    },
+    {
+        "close": 7598.5,
+        "high": 8590,
+        "low": 7189.5,
+        "open": 7674.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-08 00:00:00",
+        "volume": 1968819425
+    },
+    {
+        "close": 8232.5,
+        "high": 8655,
+        "low": 7576,
+        "open": 7598.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-09 00:00:00",
+        "volume": 1711303991
+    },
+    {
+        "close": 8675.5,
+        "high": 8750,
+        "low": 7692,
+        "open": 8232.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-10 00:00:00",
+        "volume": 1462168195
+    },
+    {
+        "close": 8548.5,
+        "high": 9084,
+        "low": 8112,
+        "open": 8675.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-11 00:00:00",
+        "volume": 1536909710
+    },
+    {
+        "close": 8065,
+        "high": 8548.5,
+        "low": 7830,
+        "open": 8548.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-12 00:00:00",
+        "volume": 1528310563
+    },
+    {
+        "close": 8905.5,
+        "high": 8999,
+        "low": 8063,
+        "open": 8065,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-13 00:00:00",
+        "volume": 1606293489
+    },
+    {
+        "close": 8499.5,
+        "high": 8944,
+        "low": 8331,
+        "open": 8905.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-14 00:00:00",
+        "volume": 1530738973
+    },
+    {
+        "close": 9462.5,
+        "high": 9515,
+        "low": 8499.5,
+        "open": 8499.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-15 00:00:00",
+        "volume": 1672574959
+    },
+    {
+        "close": 10008,
+        "high": 10191,
+        "low": 9336,
+        "open": 9462.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-16 00:00:00",
+        "volume": 2116132820
+    },
+    {
+        "close": 10185.5,
+        "high": 10304,
+        "low": 9705,
+        "open": 10008,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-17 00:00:00",
+        "volume": 1750655042
+    },
+    {
+        "close": 11144,
+        "high": 11160,
+        "low": 10013.5,
+        "open": 10185.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-18 00:00:00",
+        "volume": 2178101186
+    },
+    {
+        "close": 10402,
+        "high": 11292,
+        "low": 10174,
+        "open": 11144,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-19 00:00:00",
+        "volume": 3006576838
+    },
+    {
+        "close": 11173,
+        "high": 11277,
+        "low": 10300,
+        "open": 10402,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-20 00:00:00",
+        "volume": 2443193873
+    },
+    {
+        "close": 11220,
+        "high": 11771,
+        "low": 11020,
+        "open": 11173,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-21 00:00:00",
+        "volume": 2733704794
+    },
+    {
+        "close": 10455,
+        "high": 11250,
+        "low": 10251,
+        "open": 11220,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-22 00:00:00",
+        "volume": 3211633653
+    },
+    {
+        "close": 9831.5,
+        "high": 10905,
+        "low": 9726,
+        "open": 10455,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-23 00:00:00",
+        "volume": 3217750552
+    },
+    {
+        "close": 10130.5,
+        "high": 10369,
+        "low": 9581,
+        "open": 9831.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-24 00:00:00",
+        "volume": 2811472247
+    },
+    {
+        "close": 9689,
+        "high": 10523,
+        "low": 9338.5,
+        "open": 10130.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-25 00:00:00",
+        "volume": 2780775740
+    },
+    {
+        "close": 9591,
+        "high": 9880,
+        "low": 9289,
+        "open": 9689,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-26 00:00:00",
+        "volume": 2299980554
+    },
+    {
+        "close": 10316.5,
+        "high": 10450,
+        "low": 9379.5,
+        "open": 9591,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-27 00:00:00",
+        "volume": 2500491670
+    },
+    {
+        "close": 10530,
+        "high": 10879.5,
+        "low": 10150.5,
+        "open": 10316.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-02-28 00:00:00",
+        "volume": 2639763770
+    },
+    {
+        "close": 10319,
+        "high": 11070,
+        "low": 10250,
+        "open": 10530,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-01 00:00:00",
+        "volume": 3137482715
+    },
+    {
+        "close": 10919.5,
+        "high": 11105,
+        "low": 10230,
+        "open": 10319,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-02 00:00:00",
+        "volume": 3081991666
+    },
+    {
+        "close": 11030,
+        "high": 11198,
+        "low": 10770,
+        "open": 10919.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-03 00:00:00",
+        "volume": 2963568811
+    },
+    {
+        "close": 11458,
+        "high": 11524.5,
+        "low": 11022,
+        "open": 11030,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-04 00:00:00",
+        "volume": 2803508861
+    },
+    {
+        "close": 11490.5,
+        "high": 11538,
+        "low": 11066,
+        "open": 11458,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-05 00:00:00",
+        "volume": 2634323574
+    },
+    {
+        "close": 11330.5,
+        "high": 11683,
+        "low": 11330.5,
+        "open": 11490.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-06 00:00:00",
+        "volume": 2409753832
+    },
+    {
+        "close": 10730,
+        "high": 11391.5,
+        "low": 10560,
+        "open": 11330.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-07 00:00:00",
+        "volume": 3980630223
+    },
+    {
+        "close": 9913.5,
+        "high": 10898,
+        "low": 9330.5,
+        "open": 10730,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-08 00:00:00",
+        "volume": 4822972246
+    },
+    {
+        "close": 9304.5,
+        "high": 10121.5,
+        "low": 9030,
+        "open": 9913.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-09 00:00:00",
+        "volume": 4815317589
+    },
+    {
+        "close": 9224,
+        "high": 9423.5,
+        "low": 8340,
+        "open": 9304.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-10 00:00:00",
+        "volume": 5723376753
+    },
+    {
+        "close": 8789.5,
+        "high": 9500,
+        "low": 8706,
+        "open": 9224,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-11 00:00:00",
+        "volume": 3158061690
+    },
+    {
+        "close": 9543,
+        "high": 9789,
+        "low": 8400,
+        "open": 8789.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-12 00:00:00",
+        "volume": 3947429500
+    },
+    {
+        "close": 9093,
+        "high": 9900,
+        "low": 8711,
+        "open": 9543,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-13 00:00:00",
+        "volume": 3856719896
+    },
+    {
+        "close": 9133.5,
+        "high": 9519,
+        "low": 8805.5,
+        "open": 9093,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-14 00:00:00",
+        "volume": 3565624937
+    },
+    {
+        "close": 8190.5,
+        "high": 9400,
+        "low": 7933.5,
+        "open": 9133.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-15 00:00:00",
+        "volume": 3603357324
+    },
+    {
+        "close": 8250.5,
+        "high": 8475,
+        "low": 7652.5,
+        "open": 8190.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-16 00:00:00",
+        "volume": 3815408242
+    },
+    {
+        "close": 8250.5,
+        "high": 8643,
+        "low": 7873,
+        "open": 8250.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-17 00:00:00",
+        "volume": 2725855502
+    },
+    {
+        "close": 7849,
+        "high": 8389,
+        "low": 7730.5,
+        "open": 8250.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-18 00:00:00",
+        "volume": 2600358139
+    },
+    {
+        "close": 8189,
+        "high": 8370,
+        "low": 7300,
+        "open": 7849,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-19 00:00:00",
+        "volume": 3812114001
+    },
+    {
+        "close": 8590,
+        "high": 8780,
+        "low": 8126,
+        "open": 8189,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-20 00:00:00",
+        "volume": 3174134064
+    },
+    {
+        "close": 8897,
+        "high": 9064,
+        "low": 8323.5,
+        "open": 8590,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-21 00:00:00",
+        "volume": 3098742538
+    },
+    {
+        "close": 8893.5,
+        "high": 9217.5,
+        "low": 8750,
+        "open": 8897,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-22 00:00:00",
+        "volume": 3037673596
+    },
+    {
+        "close": 8700,
+        "high": 9095,
+        "low": 8505,
+        "open": 8893.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-23 00:00:00",
+        "volume": 3088085258
+    },
+    {
+        "close": 8921,
+        "high": 8948,
+        "low": 8255,
+        "open": 8700,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-24 00:00:00",
+        "volume": 3053687082
+    },
+    {
+        "close": 8512,
+        "high": 9032.5,
+        "low": 8460.5,
+        "open": 8921,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-25 00:00:00",
+        "volume": 2776441965
+    },
+    {
+        "close": 8444.5,
+        "high": 8683,
+        "low": 8360,
+        "open": 8512,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-26 00:00:00",
+        "volume": 2698674833
+    },
+    {
+        "close": 8150,
+        "high": 8493.5,
+        "low": 7820,
+        "open": 8444.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-27 00:00:00",
+        "volume": 3200837738
+    },
+    {
+        "close": 7791,
+        "high": 8199,
+        "low": 7716,
+        "open": 8150,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-28 00:00:00",
+        "volume": 3196058935
+    },
+    {
+        "close": 7935,
+        "high": 8097,
+        "low": 7727.5,
+        "open": 7791,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-29 00:00:00",
+        "volume": 2432935533
+    },
+    {
+        "close": 7082,
+        "high": 7963.5,
+        "low": 6850,
+        "open": 7935,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-30 00:00:00",
+        "volume": 4153824059
+    },
+    {
+        "close": 6820,
+        "high": 7227,
+        "low": 6543,
+        "open": 7082,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-03-31 00:00:00",
+        "volume": 4484265672
+    },
+    {
+        "close": 6920.5,
+        "high": 7222,
+        "low": 6788,
+        "open": 6820,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-04-01 00:00:00",
+        "volume": 3064915621
+    },
+    {
+        "close": 6817,
+        "high": 7053,
+        "low": 6404.5,
+        "open": 6920.5,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-04-02 00:00:00",
+        "volume": 3120463644
+    },
+    {
+        "close": 7046.5,
+        "high": 7123,
+        "low": 6766,
+        "open": 6817,
+        "symbol": "XBTUSD",
+        "timestamp": "2018-04-03 00:00:00",
+        "volume": 2396422744
+    }
+]
